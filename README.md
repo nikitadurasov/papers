@@ -12,6 +12,12 @@ Just to make it convenient for me and (possibly) for other folks I'll store some
 
 ### Uncertainty Estimation
 
+[10-06-2020][paper5]
+* Weight Uncertainty in Neural Networks
+* Charles Blundell, Julien Cornebise, Koray Kavukcuoglu, Daan Wierstra
+* `ICML 2015`
+* [[Bayesian Methods]](#bayesian-methods) [[Uncertatinty Estimation]](#uncertainty-estimation)
+
 [10-06-2020][paper4]
 * Bayesian Methods for Neural Networks [[pdf]](https://www.microsoft.com/en-us/research/wp-content/uploads/1995/01/NCRG_95_009.pdf)
 * Christopher M. Bishop
@@ -31,6 +37,12 @@ Just to make it convenient for me and (possibly) for other folks I'll store some
 * [[Bayesian Methods]](#bayesian-methods) [[Uncertatinty Estimation]](#uncertainty-estimation)
 
 ### Bayesian Methods
+
+[10-06-2020][paper5]
+* Weight Uncertainty in Neural Networks
+* Charles Blundell, Julien Cornebise, Koray Kavukcuoglu, Daan Wierstra
+* `ICML 2015`
+* [[Bayesian Methods]](#bayesian-methods) [[Uncertatinty Estimation]](#uncertainty-estimation)
 
 [10-06-2020][paper4]
 * Bayesian Methods for Neural Networks [[pdf]](https://www.microsoft.com/en-us/research/wp-content/uploads/1995/01/NCRG_95_009.pdf)
@@ -67,6 +79,12 @@ Just to make it convenient for me and (possibly) for other folks I'll store some
 * [[Bayesian Methods]](#bayesian-methods) [[Uncertatinty Estimation]](#uncertainty-estimation) [[Gaussian Processes]](#gaussian-processes)
 
 ### 2020
+
+[10-06-2020][paper5]
+* Weight Uncertainty in Neural Networks
+* Charles Blundell, Julien Cornebise, Koray Kavukcuoglu, Daan Wierstra
+* `ICML 2015`
+* [[Bayesian Methods]](#bayesian-methods) [[Uncertatinty Estimation]](#uncertainty-estimation)
 
 [10-06-2020][paper4]
 * Bayesian Methods for Neural Networks [[pdf]](https://www.microsoft.com/en-us/research/wp-content/uploads/1995/01/NCRG_95_009.pdf)

@@ -2,7 +2,7 @@
 
 ****
 
-## General comments on paper:
+## General comments on paper (8/10):
 
 * really great introduction into Bayesian ideas for deep learning
 * easy to read and kinda understandable weithout prior experience
