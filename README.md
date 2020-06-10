@@ -12,6 +12,12 @@ Just to make it convenient for me and (possibly) for other folks I'll store some
 
 ### Uncertainty Estimation
 
+[waiting][paper3]
+* Neural Tangents: Fast and Easy Infinite Neural Networks in Python
+* Roman Novak, Lechao Xiao, Jiri Hron, Jaehoon Lee, Alexander A. Alemi, Jascha Sohl-Dickstein, Samuel S. Schoenholz
+* `05-12-2019, ICML 2020`
+* [[Bayesian Methods]](#bayesian-methods) [[Uncertatinty Estimation]](#uncertainty-estimation) [[Gaussian Processes]](#gaussian-processes)
+
 [waiting][paper2]
 * Bayesian Layers: A Module for Neural Network Uncertainty [[pdf]](https://papers.nips.cc/paper/9607-bayesian-layers-a-module-for-neural-network-uncertainty)
 * Dustin Tran, Mike Dusenberry, Mark van der Wilk, Danijar Hafner
@@ -19,6 +25,12 @@ Just to make it convenient for me and (possibly) for other folks I'll store some
 * [[Bayesian Methods]](#bayesian-methods) [[Uncertatinty Estimation]](#uncertainty-estimation)
 
 ### Bayesian Methods
+
+[waiting][paper3]
+* Neural Tangents: Fast and Easy Infinite Neural Networks in Python
+* Roman Novak, Lechao Xiao, Jiri Hron, Jaehoon Lee, Alexander A. Alemi, Jascha Sohl-Dickstein, Samuel S. Schoenholz
+* `05-12-2019, ICML 2020`
+* [[Bayesian Methods]](#bayesian-methods) [[Uncertatinty Estimation]](#uncertainty-estimation) [[Gaussian Processes]](#gaussian-processes)
 
 [waiting][paper2]
 * Bayesian Layers: A Module for Neural Network Uncertainty [[pdf]](https://papers.nips.cc/paper/9607-bayesian-layers-a-module-for-neural-network-uncertainty)
@@ -34,8 +46,21 @@ Just to make it convenient for me and (possibly) for other folks I'll store some
 * `05-06-2020, arxiv`
 * [[Natural Language Processing]](#natural-language-processing)
 
+### Gaussian Processes
 
-#### 2020
+[waiting][paper3]
+* Neural Tangents: Fast and Easy Infinite Neural Networks in Python
+* Roman Novak, Lechao Xiao, Jiri Hron, Jaehoon Lee, Alexander A. Alemi, Jascha Sohl-Dickstein, Samuel S. Schoenholz
+* `05-12-2019, ICML 2020`
+* [[Bayesian Methods]](#bayesian-methods) [[Uncertatinty Estimation]](#uncertainty-estimation) [[Gaussian Processes]](#gaussian-processes)
+
+### 2020
+
+[waiting][paper3]
+* Neural Tangents: Fast and Easy Infinite Neural Networks in Python
+* Roman Novak, Lechao Xiao, Jiri Hron, Jaehoon Lee, Alexander A. Alemi, Jascha Sohl-Dickstein, Samuel S. Schoenholz
+* `05-12-2019, ICML 2020`
+* [[Bayesian Methods]](#bayesian-methods) [[Uncertatinty Estimation]](#uncertainty-estimation) [[Gaussian Processes]](#gaussian-processes)
 
 [waiting][paper2]
 * Bayesian Layers: A Module for Neural Network Uncertainty [[pdf]](https://papers.nips.cc/paper/9607-bayesian-layers-a-module-for-neural-network-uncertainty)
