@@ -13,7 +13,7 @@ Just to make it convenient for me and (possibly) for other folks I'll store some
 ### Uncertainty Estimation
 
 [waiting][paper3]
-* Neural Tangents: Fast and Easy Infinite Neural Networks in Python
+* Neural Tangents: Fast and Easy Infinite Neural Networks in Python [[pdf]](https://arxiv.org/abs/1912.02803)
 * Roman Novak, Lechao Xiao, Jiri Hron, Jaehoon Lee, Alexander A. Alemi, Jascha Sohl-Dickstein, Samuel S. Schoenholz
 * `05-12-2019, ICML 2020`
 * [[Bayesian Methods]](#bayesian-methods) [[Uncertatinty Estimation]](#uncertainty-estimation) [[Gaussian Processes]](#gaussian-processes)
@@ -27,7 +27,7 @@ Just to make it convenient for me and (possibly) for other folks I'll store some
 ### Bayesian Methods
 
 [waiting][paper3]
-* Neural Tangents: Fast and Easy Infinite Neural Networks in Python
+* Neural Tangents: Fast and Easy Infinite Neural Networks in Python [[pdf]](https://arxiv.org/abs/1912.02803)
 * Roman Novak, Lechao Xiao, Jiri Hron, Jaehoon Lee, Alexander A. Alemi, Jascha Sohl-Dickstein, Samuel S. Schoenholz
 * `05-12-2019, ICML 2020`
 * [[Bayesian Methods]](#bayesian-methods) [[Uncertatinty Estimation]](#uncertainty-estimation) [[Gaussian Processes]](#gaussian-processes)
@@ -49,7 +49,7 @@ Just to make it convenient for me and (possibly) for other folks I'll store some
 ### Gaussian Processes
 
 [waiting][paper3]
-* Neural Tangents: Fast and Easy Infinite Neural Networks in Python
+* Neural Tangents: Fast and Easy Infinite Neural Networks in Python [[pdf]](https://arxiv.org/abs/1912.02803)
 * Roman Novak, Lechao Xiao, Jiri Hron, Jaehoon Lee, Alexander A. Alemi, Jascha Sohl-Dickstein, Samuel S. Schoenholz
 * `05-12-2019, ICML 2020`
 * [[Bayesian Methods]](#bayesian-methods) [[Uncertatinty Estimation]](#uncertainty-estimation) [[Gaussian Processes]](#gaussian-processes)
