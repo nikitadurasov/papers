@@ -12,6 +12,12 @@ Just to make it convenient for me and (possibly) for other folks I'll store some
 
 ### Uncertainty Estimation
 
+[10-06-2020][paper4]
+* Bayesian Methods for Neural Networks [[pdf]](https://www.microsoft.com/en-us/research/wp-content/uploads/1995/01/NCRG_95_009.pdf)
+* Christopher M. Bishop
+* `None`
+* [[Bayesian Methods]](#bayesian-methods) [[Uncertatinty Estimation]](#uncertainty-estimation)
+
 [waiting][paper3]
 * Neural Tangents: Fast and Easy Infinite Neural Networks in Python [[pdf]](https://arxiv.org/abs/1912.02803) [[video]](https://iclr.cc/virtual_2020/poster_SklD9yrFPS.html)
 * Roman Novak, Lechao Xiao, Jiri Hron, Jaehoon Lee, Alexander A. Alemi, Jascha Sohl-Dickstein, Samuel S. Schoenholz
@@ -25,6 +31,12 @@ Just to make it convenient for me and (possibly) for other folks I'll store some
 * [[Bayesian Methods]](#bayesian-methods) [[Uncertatinty Estimation]](#uncertainty-estimation)
 
 ### Bayesian Methods
+
+[10-06-2020][paper4]
+* Bayesian Methods for Neural Networks [[pdf]](https://www.microsoft.com/en-us/research/wp-content/uploads/1995/01/NCRG_95_009.pdf)
+* Christopher M. Bishop
+* `None`
+* [[Bayesian Methods]](#bayesian-methods) [[Uncertatinty Estimation]](#uncertainty-estimation)
 
 [waiting][paper3]
 * Neural Tangents: Fast and Easy Infinite Neural Networks in Python [[pdf]](https://arxiv.org/abs/1912.02803) [[video]](https://iclr.cc/virtual_2020/poster_SklD9yrFPS.html)
@@ -55,6 +67,12 @@ Just to make it convenient for me and (possibly) for other folks I'll store some
 * [[Bayesian Methods]](#bayesian-methods) [[Uncertatinty Estimation]](#uncertainty-estimation) [[Gaussian Processes]](#gaussian-processes)
 
 ### 2020
+
+[10-06-2020][paper4]
+* Bayesian Methods for Neural Networks [[pdf]](https://www.microsoft.com/en-us/research/wp-content/uploads/1995/01/NCRG_95_009.pdf)
+* Christopher M. Bishop
+* `None`
+* [[Bayesian Methods]](#bayesian-methods) [[Uncertatinty Estimation]](#uncertainty-estimation)
 
 [waiting][paper3]
 * Neural Tangents: Fast and Easy Infinite Neural Networks in Python [[pdf]](https://arxiv.org/abs/1912.02803) [[video]](https://iclr.cc/virtual_2020/poster_SklD9yrFPS.html)
