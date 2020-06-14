@@ -12,6 +12,12 @@ Just to make it convenient for me and (possibly) for other folks I'll store some
 
 ### Uncertainty Estimation
 
+[14-06-2020][paper6]
+* BatchEnsemble: an Alternative Approach to Efficient Ensemble and Lifelong Learning
+* Yeming Wen, Dustin Tran, Jimmy Ba
+* `ICLR 2020`
+* [[Uncertatinty Estimation]](#uncertainty-estimation)
+
 [10-06-2020][paper5]
 * Weight Uncertainty in Neural Networks
 * Charles Blundell, Julien Cornebise, Koray Kavukcuoglu, Daan Wierstra
@@ -79,6 +85,12 @@ Just to make it convenient for me and (possibly) for other folks I'll store some
 * [[Bayesian Methods]](#bayesian-methods) [[Uncertatinty Estimation]](#uncertainty-estimation) [[Gaussian Processes]](#gaussian-processes)
 
 ### 2020
+
+[14-06-2020][paper6]
+* BatchEnsemble: an Alternative Approach to Efficient Ensemble and Lifelong Learning
+* Yeming Wen, Dustin Tran, Jimmy Ba
+* `ICLR 2020`
+* [[Uncertatinty Estimation]](#uncertainty-estimation)
 
 [10-06-2020][paper5]
 * Weight Uncertainty in Neural Networks
