@@ -12,6 +12,12 @@ Just to make it convenient for me and (possibly) for other folks I'll store some
 
 ### Uncertainty Estimation
 
+[waiting][paper7]
+* On Calibration of Modern Neural Networks
+* Chuan Guo, Geoff Pleiss, Yu Sun, Kilian Q. Weinberger
+* `ICLR 2017`
+* [[Uncertatinty Estimation]](#uncertainty-estimation)
+
 [waiting][paper6]
 * BatchEnsemble: an Alternative Approach to Efficient Ensemble and Lifelong Learning
 * Yeming Wen, Dustin Tran, Jimmy Ba
@@ -85,6 +91,12 @@ Just to make it convenient for me and (possibly) for other folks I'll store some
 * [[Bayesian Methods]](#bayesian-methods) [[Uncertatinty Estimation]](#uncertainty-estimation) [[Gaussian Processes]](#gaussian-processes)
 
 ### 2020
+
+[waiting][paper7]
+* On Calibration of Modern Neural Networks
+* Chuan Guo, Geoff Pleiss, Yu Sun, Kilian Q. Weinberger
+* `ICLR 2017`
+* [[Uncertatinty Estimation]](#uncertainty-estimation)
 
 [14-06-2020][paper6]
 * BatchEnsemble: an Alternative Approach to Efficient Ensemble and Lifelong Learning
