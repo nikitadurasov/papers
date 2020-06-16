@@ -20,7 +20,7 @@ Just to make it convenient for me and (possibly) for other folks I'll store some
 ### Uncertainty Estimation
 
 [waiting][paper11]
-* Bayesian Learning via Stochastic Gradient Langevin Dynamics
+* Bayesian Learning via Stochastic Gradient Langevin Dynamics [[pdf]](https://www.ics.uci.edu/~welling/publications/papers/stoclangevin_v6.pdf)
 * Max Welling, Yee Whye Teh
 * `ICML 2011`
 * [[Bayesian Methods]](#bayesian-methods) [[Uncertatinty Estimation]](#uncertainty-estimation)
@@ -82,7 +82,7 @@ Just to make it convenient for me and (possibly) for other folks I'll store some
 ### Bayesian Methods
 
 [waiting][paper11]
-* Bayesian Learning via Stochastic Gradient Langevin Dynamics
+* Bayesian Learning via Stochastic Gradient Langevin Dynamics [[pdf]](https://www.ics.uci.edu/~welling/publications/papers/stoclangevin_v6.pdf)
 * Max Welling, Yee Whye Teh
 * `ICML 2011`
 * [[Bayesian Methods]](#bayesian-methods) [[Uncertatinty Estimation]](#uncertainty-estimation)
@@ -142,7 +142,7 @@ Just to make it convenient for me and (possibly) for other folks I'll store some
 ### 2020
 
 [waiting][paper11]
-* Bayesian Learning via Stochastic Gradient Langevin Dynamics
+* Bayesian Learning via Stochastic Gradient Langevin Dynamics [[pdf]](https://www.ics.uci.edu/~welling/publications/papers/stoclangevin_v6.pdf)
 * Max Welling, Yee Whye Teh
 * `ICML 2011`
 * [[Bayesian Methods]](#bayesian-methods) [[Uncertatinty Estimation]](#uncertainty-estimation)
