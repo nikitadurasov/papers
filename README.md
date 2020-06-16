@@ -19,6 +19,12 @@ Just to make it convenient for me and (possibly) for other folks I'll store some
 
 ### Uncertainty Estimation
 
+[waiting][paper10]
+* Practical Deep Learning with Bayesian Principles [[pdf]](https://arxiv.org/pdf/1906.02506.pdf)
+* Kazuki Osawa, Siddharth Swaroop, Anirudh Jain, Runa Eschenhagen, Richard E. Turner, Rio Yokota, Mohammad Emtiyaz Khan
+* `NIPS 2019`
+* [[Bayesian Methods]](#bayesian-methods) [[Uncertatinty Estimation]](#uncertainty-estimation)
+
 [waiting][paper9]
 * Deep Exploration via Randomized Value Functions [[pdf]](https://arxiv.org/pdf/1703.07608.pdf)
 * Ian Osband, Benjamin Van Roy, Daniel Russo, Zheng Wen
@@ -69,6 +75,12 @@ Just to make it convenient for me and (possibly) for other folks I'll store some
 
 ### Bayesian Methods
 
+[waiting][paper10]
+* Practical Deep Learning with Bayesian Principles [[pdf]](https://arxiv.org/pdf/1906.02506.pdf)
+* Kazuki Osawa, Siddharth Swaroop, Anirudh Jain, Runa Eschenhagen, Richard E. Turner, Rio Yokota, Mohammad Emtiyaz Khan
+* `NIPS 2019`
+* [[Bayesian Methods]](#bayesian-methods) [[Uncertatinty Estimation]](#uncertainty-estimation)
+
 [waiting][paper8]
 * On the Validity of Bayesian Neural Networks for Uncertainty Estimation [[pdf]](https://arxiv.org/pdf/1912.01530.pdf)
 * John Mitros, Brian Mac Namee
@@ -116,6 +128,12 @@ Just to make it convenient for me and (possibly) for other folks I'll store some
 * [[Bayesian Methods]](#bayesian-methods) [[Uncertatinty Estimation]](#uncertainty-estimation) [[Gaussian Processes]](#gaussian-processes)
 
 ### 2020
+
+[waiting][paper10]
+* Practical Deep Learning with Bayesian Principles [[pdf]](https://arxiv.org/pdf/1906.02506.pdf)
+* Kazuki Osawa, Siddharth Swaroop, Anirudh Jain, Runa Eschenhagen, Richard E. Turner, Rio Yokota, Mohammad Emtiyaz Khan
+* `NIPS 2019`
+* [[Bayesian Methods]](#bayesian-methods) [[Uncertatinty Estimation]](#uncertainty-estimation)
 
 [waiting][paper9]
 * Deep Exploration via Randomized Value Functions [[pdf]](https://arxiv.org/pdf/1703.07608.pdf)
