@@ -12,6 +12,12 @@ Just to make it convenient for me and (possibly) for other folks I'll store some
 
 ### Uncertainty Estimation
 
+[waiting][paper8]
+* On the Validity of Bayesian Neural Networks for Uncertainty Estimation [[pds]](https://arxiv.org/pdf/1912.01530.pdf)
+* John Mitros, Brian Mac Namee
+* `AICS 2019`
+* [[Bayesian Methods]](#bayesian-methods) [[Uncertatinty Estimation]](#uncertainty-estimation)
+
 [waiting][paper7]
 * On Calibration of Modern Neural Networks
 * Chuan Guo, Geoff Pleiss, Yu Sun, Kilian Q. Weinberger
@@ -49,6 +55,12 @@ Just to make it convenient for me and (possibly) for other folks I'll store some
 * [[Bayesian Methods]](#bayesian-methods) [[Uncertatinty Estimation]](#uncertainty-estimation)
 
 ### Bayesian Methods
+
+[waiting][paper8]
+* On the Validity of Bayesian Neural Networks for Uncertainty Estimation [[pdf]](https://arxiv.org/pdf/1912.01530.pdf)
+* John Mitros, Brian Mac Namee
+* `AICS 2019`
+* [[Bayesian Methods]](#bayesian-methods) [[Uncertatinty Estimation]](#uncertainty-estimation)
 
 [waiting][paper5]
 * Weight Uncertainty in Neural Networks
@@ -91,6 +103,12 @@ Just to make it convenient for me and (possibly) for other folks I'll store some
 * [[Bayesian Methods]](#bayesian-methods) [[Uncertatinty Estimation]](#uncertainty-estimation) [[Gaussian Processes]](#gaussian-processes)
 
 ### 2020
+
+[waiting][paper8]
+* On the Validity of Bayesian Neural Networks for Uncertainty Estimation [[pdf]](https://arxiv.org/pdf/1912.01530.pdf)
+* John Mitros, Brian Mac Namee
+* `AICS 2019`
+* [[Bayesian Methods]](#bayesian-methods) [[Uncertatinty Estimation]](#uncertainty-estimation)
 
 [waiting][paper7]
 * On Calibration of Modern Neural Networks
