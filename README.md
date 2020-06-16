@@ -19,6 +19,12 @@ Just to make it convenient for me and (possibly) for other folks I'll store some
 
 ### Uncertainty Estimation
 
+[waiting][paper11]
+* Bayesian Learning via Stochastic Gradient Langevin Dynamics
+* Max Welling, Yee Whye Teh
+* `ICML 2011`
+* [[Bayesian Methods]](#bayesian-methods) [[Uncertatinty Estimation]](#uncertainty-estimation)
+
 [waiting][paper10]
 * Practical Deep Learning with Bayesian Principles [[pdf]](https://arxiv.org/pdf/1906.02506.pdf)
 * Kazuki Osawa, Siddharth Swaroop, Anirudh Jain, Runa Eschenhagen, Richard E. Turner, Rio Yokota, Mohammad Emtiyaz Khan
@@ -75,6 +81,12 @@ Just to make it convenient for me and (possibly) for other folks I'll store some
 
 ### Bayesian Methods
 
+[waiting][paper11]
+* Bayesian Learning via Stochastic Gradient Langevin Dynamics
+* Max Welling, Yee Whye Teh
+* `ICML 2011`
+* [[Bayesian Methods]](#bayesian-methods) [[Uncertatinty Estimation]](#uncertainty-estimation)
+
 [waiting][paper10]
 * Practical Deep Learning with Bayesian Principles [[pdf]](https://arxiv.org/pdf/1906.02506.pdf)
 * Kazuki Osawa, Siddharth Swaroop, Anirudh Jain, Runa Eschenhagen, Richard E. Turner, Rio Yokota, Mohammad Emtiyaz Khan
@@ -128,6 +140,12 @@ Just to make it convenient for me and (possibly) for other folks I'll store some
 * [[Bayesian Methods]](#bayesian-methods) [[Uncertatinty Estimation]](#uncertainty-estimation) [[Gaussian Processes]](#gaussian-processes)
 
 ### 2020
+
+[waiting][paper11]
+* Bayesian Learning via Stochastic Gradient Langevin Dynamics
+* Max Welling, Yee Whye Teh
+* `ICML 2011`
+* [[Bayesian Methods]](#bayesian-methods) [[Uncertatinty Estimation]](#uncertainty-estimation)
 
 [waiting][paper10]
 * Practical Deep Learning with Bayesian Principles [[pdf]](https://arxiv.org/pdf/1906.02506.pdf)
