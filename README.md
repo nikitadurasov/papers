@@ -9,8 +9,21 @@ Just to make it convenient for me and (possibly) for other folks I'll store some
 
 ****
 
+### Reinforcement Learning
+
+[waiting][paper9]
+* Deep Exploration via Randomized Value Functions [[pdf]](https://arxiv.org/pdf/1703.07608.pdf)
+* Ian Osband, Benjamin Van Roy, Daniel Russo, Zheng Wen
+* `JMLR 2019`
+* [[Reinforcement Learning]](#reinforcement-learning) [[Uncertatinty Estimation]](#uncertainty-estimation)
 
 ### Uncertainty Estimation
+
+[waiting][paper9]
+* Deep Exploration via Randomized Value Functions [[pdf]](https://arxiv.org/pdf/1703.07608.pdf)
+* Ian Osband, Benjamin Van Roy, Daniel Russo, Zheng Wen
+* `JMLR 2019`
+* [[Reinforcement Learning]](#reinforcement-learning) [[Uncertatinty Estimation]](#uncertainty-estimation)
 
 [waiting][paper8]
 * On the Validity of Bayesian Neural Networks for Uncertainty Estimation [[pds]](https://arxiv.org/pdf/1912.01530.pdf)
@@ -103,6 +116,12 @@ Just to make it convenient for me and (possibly) for other folks I'll store some
 * [[Bayesian Methods]](#bayesian-methods) [[Uncertatinty Estimation]](#uncertainty-estimation) [[Gaussian Processes]](#gaussian-processes)
 
 ### 2020
+
+[waiting][paper9]
+* Deep Exploration via Randomized Value Functions [[pdf]](https://arxiv.org/pdf/1703.07608.pdf)
+* Ian Osband, Benjamin Van Roy, Daniel Russo, Zheng Wen
+* `JMLR 2019`
+* [[Reinforcement Learning]](#reinforcement-learning) [[Uncertatinty Estimation]](#uncertainty-estimation)
 
 [waiting][paper8]
 * On the Validity of Bayesian Neural Networks for Uncertainty Estimation [[pdf]](https://arxiv.org/pdf/1912.01530.pdf)
