@@ -3,11 +3,20 @@
 Just to make it convenient for me and (possibly) for other folks I'll store some info about papers I've read. Moreover, I would like to use this repo as some kind of papers waiting-list, just to manage reading pipeline consistent.
 
 ## Content
+- [Reinforcement Learning](#reinforcement-learning)
 - [Uncertainty Estimation](#uncertainty-estimation)
 - [Bayesian Methods](#bayesian-methods)
 - [Natural Language Processing ](#natural-language-processing )
 
 ****
+
+### PhD Theses
+
+[waiting][thesis1]
+* Bayesian Methods for Adaptive Models [[pdf]](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.31.4284&rep=rep1&type=pdf)
+* David Mackay
+* `Caltech 1992`
+* [[Bayesian Methods]](#bayesian-methods) [[Uncertatinty Estimation]](#uncertainty-estimation)
 
 ### Reinforcement Learning
 
@@ -18,6 +27,12 @@ Just to make it convenient for me and (possibly) for other folks I'll store some
 * [[Reinforcement Learning]](#reinforcement-learning) [[Uncertatinty Estimation]](#uncertainty-estimation)
 
 ### Uncertainty Estimation
+
+[waiting][thesis1]
+* Bayesian Methods for Adaptive Models [[pdf]](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.31.4284&rep=rep1&type=pdf)
+* David Mackay
+* `Caltech 1992`
+* [[Bayesian Methods]](#bayesian-methods) [[Uncertatinty Estimation]](#uncertainty-estimation)
 
 [waiting][paper11]
 * Bayesian Learning via Stochastic Gradient Langevin Dynamics [[pdf]](https://www.ics.uci.edu/~welling/publications/papers/stoclangevin_v6.pdf)
@@ -80,6 +95,12 @@ Just to make it convenient for me and (possibly) for other folks I'll store some
 * [[Bayesian Methods]](#bayesian-methods) [[Uncertatinty Estimation]](#uncertainty-estimation)
 
 ### Bayesian Methods
+
+[waiting][thesis1]
+* Bayesian Methods for Adaptive Models [[pdf]](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.31.4284&rep=rep1&type=pdf)
+* David Mackay
+* `Caltech 1992`
+* [[Bayesian Methods]](#bayesian-methods) [[Uncertatinty Estimation]](#uncertainty-estimation)
 
 [waiting][paper11]
 * Bayesian Learning via Stochastic Gradient Langevin Dynamics [[pdf]](https://www.ics.uci.edu/~welling/publications/papers/stoclangevin_v6.pdf)
