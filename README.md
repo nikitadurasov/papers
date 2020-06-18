@@ -12,11 +12,25 @@ Just to make it convenient for me and (possibly) for other folks I'll store some
 
 ### PhD Theses
 
+[waiting][thesis2]
+* Inference and Learning in Deep Generative Models [[pdf]](http://www2.bio.ku.dk/bibliotek/phd/Casper%20Kaae%20S%F8nderby.pdf)
+* Casper Kaae Sønderby
+* `University of Copenhagen 2018`
+* [[Generative Models]](#generative-models)
+
 [waiting][thesis1]
 * Bayesian Methods for Adaptive Models [[pdf]](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.31.4284&rep=rep1&type=pdf)
 * David Mackay
 * `Caltech 1992`
 * [[Bayesian Methods]](#bayesian-methods) [[Uncertatinty Estimation]](#uncertainty-estimation)
+
+### Generative Models
+
+[waiting][thesis2]
+* Inference and Learning in Deep Generative Models [[pdf]](http://www2.bio.ku.dk/bibliotek/phd/Casper%20Kaae%20S%F8nderby.pdf)
+* Casper Kaae Sønderby
+* `University of Copenhagen 2018`
+* [[Generative Models]](#generative-models)
 
 ### Reinforcement Learning
 
