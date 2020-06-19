@@ -12,6 +12,12 @@ Just to make it convenient for me and (possibly) for other folks I'll store some
 
 ### PhD Theses
 
+[waiting][thesis3]
+* Bayesian Learning for Neural Networks
+* Radford M. Neal
+* `University of Toronto 1995`
+* [[Bayesian Methods]](#bayesian-methods) [[Uncertainty Estimation]](#uncertainty-estimation)
+
 [waiting][thesis2]
 * Inference and Learning in Deep Generative Models [[pdf]](http://www2.bio.ku.dk/bibliotek/phd/Casper%20Kaae%20S%F8nderby.pdf)
 * Casper Kaae Sønderby
@@ -41,6 +47,12 @@ Just to make it convenient for me and (possibly) for other folks I'll store some
 * [[Reinforcement Learning]](#reinforcement-learning) [[Uncertatinty Estimation]](#uncertainty-estimation)
 
 ### Uncertainty Estimation
+
+[waiting][thesis3]
+* Bayesian Learning for Neural Networks
+* Radford M. Neal
+* `University of Toronto 1995`
+* [[Bayesian Methods]](#bayesian-methods) [[Uncertainty Estimation]](#uncertainty-estimation)
 
 [waiting][thesis1]
 * Bayesian Methods for Adaptive Models [[pdf]](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.31.4284&rep=rep1&type=pdf)
@@ -109,6 +121,12 @@ Just to make it convenient for me and (possibly) for other folks I'll store some
 * [[Bayesian Methods]](#bayesian-methods) [[Uncertatinty Estimation]](#uncertainty-estimation)
 
 ### Bayesian Methods
+
+[waiting][thesis3]
+* Bayesian Learning for Neural Networks
+* Radford M. Neal
+* `University of Toronto 1995`
+* [[Bayesian Methods]](#bayesian-methods) [[Uncertainty Estimation]](#uncertainty-estimation)
 
 [waiting][thesis1]
 * Bayesian Methods for Adaptive Models [[pdf]](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.31.4284&rep=rep1&type=pdf)
