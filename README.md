@@ -49,6 +49,12 @@ Just to make it convenient for me and (possibly) for other folks I'll store some
 
 ### Uncertainty Estimation
 
+[waiting][paper12]
+* A Simple Baseline for Bayesian Uncertainty in Deep Learning
+* Wesley Maddox, Timur Garipov, Pavel Izmailov, Dmitry Vetrov, Andrew Gordon Wilson
+* `NIPS 2019`
+* [[Bayesian Methods]](#bayesian-methods) [[Uncertatinty Estimation]](#uncertainty-estimation)
+
 [waiting][thesis3]
 * Bayesian Learning for Neural Networks
 * Radford M. Neal
@@ -123,6 +129,12 @@ Just to make it convenient for me and (possibly) for other folks I'll store some
 
 ### Bayesian Methods
 
+[waiting][paper12]
+* A Simple Baseline for Bayesian Uncertainty in Deep Learning
+* Wesley Maddox, Timur Garipov, Pavel Izmailov, Dmitry Vetrov, Andrew Gordon Wilson
+* `NIPS 2019`
+* [[Bayesian Methods]](#bayesian-methods) [[Uncertatinty Estimation]](#uncertainty-estimation)
+
 [waiting][thesis3]
 * Bayesian Learning for Neural Networks
 * Radford M. Neal
@@ -194,6 +206,12 @@ Just to make it convenient for me and (possibly) for other folks I'll store some
 * [[Bayesian Methods]](#bayesian-methods) [[Uncertatinty Estimation]](#uncertainty-estimation) [[Gaussian Processes]](#gaussian-processes)
 
 ### 2020
+
+[waiting][paper12]
+* A Simple Baseline for Bayesian Uncertainty in Deep Learning
+* Wesley Maddox, Timur Garipov, Pavel Izmailov, Dmitry Vetrov, Andrew Gordon Wilson
+* `NIPS 2019`
+* [[Bayesian Methods]](#bayesian-methods) [[Uncertatinty Estimation]](#uncertainty-estimation)
 
 [waiting][paper11]
 * Bayesian Learning via Stochastic Gradient Langevin Dynamics [[pdf]](https://www.ics.uci.edu/~welling/publications/papers/stoclangevin_v6.pdf)
