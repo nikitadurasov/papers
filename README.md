@@ -49,6 +49,12 @@ Just to make it convenient for me and (possibly) for other folks I'll store some
 
 ### Uncertainty Estimation
 
+[waiting][paper13]
+* Deep Ensembles: A Loss Landscape Perspective
+* Stanislav Fort, Huiyi Hu, Balaji Lakshminarayanan
+* `arxiv 2019`
+* [[Uncertatinty Estimation]](#uncertainty-estimation)
+
 [waiting][paper12]
 * A Simple Baseline for Bayesian Uncertainty in Deep Learning
 * Wesley Maddox, Timur Garipov, Pavel Izmailov, Dmitry Vetrov, Andrew Gordon Wilson
@@ -206,6 +212,12 @@ Just to make it convenient for me and (possibly) for other folks I'll store some
 * [[Bayesian Methods]](#bayesian-methods) [[Uncertatinty Estimation]](#uncertainty-estimation) [[Gaussian Processes]](#gaussian-processes)
 
 ### 2020
+
+[waiting][paper13]
+* Deep Ensembles: A Loss Landscape Perspective
+* Stanislav Fort, Huiyi Hu, Balaji Lakshminarayanan
+* `arxiv 2019`
+* [[Uncertatinty Estimation]](#uncertainty-estimation)
 
 [waiting][paper12]
 * A Simple Baseline for Bayesian Uncertainty in Deep Learning
