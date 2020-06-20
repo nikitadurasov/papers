@@ -49,6 +49,12 @@ Just to make it convenient for me and (possibly) for other folks I'll store some
 
 ### Uncertainty Estimation
 
+[waiting][paper16]
+* On the uncertainty of self-supervised monocular depth estimation [[pdf]](On the uncertainty of self-supervised monocular depth estimation)
+* Matteo Poggi Filippo Aleotti Fabio Tosi Stefano Mattoccia
+* `CVPR 2020`
+* [[Uncertatinty Estimation]](#uncertainty-estimation) [[Depth Estimation]](#depth-estimation)
+
 [waiting][paper15]
 * Scalable Uncertainty for Computer Vision with Functional Variational Inference [[pdf]](http://openaccess.thecvf.com/content_CVPR_2020/papers/Carvalho_Scalable_Uncertainty_for_Computer_Vision_With_Functional_Variational_Inference_CVPR_2020_paper.pdf)
 * Eduardo D C Carvalho, Ronald Clark, Andrea Nicastro∗ Paul H J Kelly
@@ -225,6 +231,12 @@ Just to make it convenient for me and (possibly) for other folks I'll store some
 
 ### Depth Estimation
 
+[waiting][paper16]
+* On the uncertainty of self-supervised monocular depth estimation [[pdf]](On the uncertainty of self-supervised monocular depth estimation)
+* Matteo Poggi Filippo Aleotti Fabio Tosi Stefano Mattoccia
+* `CVPR 2020`
+* [[Uncertatinty Estimation]](#uncertainty-estimation) [[Depth Estimation]](#depth-estimation)
+
 [waiting][paper15]
 * Scalable Uncertainty for Computer Vision with Functional Variational Inference [[pdf]](http://openaccess.thecvf.com/content_CVPR_2020/papers/Carvalho_Scalable_Uncertainty_for_Computer_Vision_With_Functional_Variational_Inference_CVPR_2020_paper.pdf)
 * Eduardo D C Carvalho, Ronald Clark, Andrea Nicastro∗ Paul H J Kelly
@@ -238,6 +250,12 @@ Just to make it convenient for me and (possibly) for other folks I'll store some
 * [[Uncertatinty Estimation]](#uncertainty-estimation) [[Depth Estimation]](#depth-estimation)
 
 ### 2020
+
+[waiting][paper16]
+* On the uncertainty of self-supervised monocular depth estimation [[pdf]](On the uncertainty of self-supervised monocular depth estimation)
+* Matteo Poggi Filippo Aleotti Fabio Tosi Stefano Mattoccia
+* `CVPR 2020`
+* [[Uncertatinty Estimation]](#uncertainty-estimation) [[Depth Estimation]](#depth-estimation)
 
 [waiting][paper15]
 * Scalable Uncertainty for Computer Vision with Functional Variational Inference [[pdf]](http://openaccess.thecvf.com/content_CVPR_2020/papers/Carvalho_Scalable_Uncertainty_for_Computer_Vision_With_Functional_Variational_Inference_CVPR_2020_paper.pdf)
