@@ -153,6 +153,12 @@ Just to make it convenient for me and (possibly) for other folks I'll store some
 
 ### Bayesian Methods
 
+[waiting][paper17]
+* Multiplicative Normalizing Flows for Variational Bayesian Neural Networks [[pdf]](https://arxiv.org/pdf/1703.01961.pdf)
+* Christos Louizos, Max Welling
+* `ICML 2017`
+* [[Bayesian Methods]](#bayesian-methods)
+
 [waiting][paper12]
 * A Simple Baseline for Bayesian Uncertainty in Deep Learning
 * Wesley Maddox, Timur Garipov, Pavel Izmailov, Dmitry Vetrov, Andrew Gordon Wilson
@@ -250,6 +256,12 @@ Just to make it convenient for me and (possibly) for other folks I'll store some
 * [[Uncertatinty Estimation]](#uncertainty-estimation) [[Depth Estimation]](#depth-estimation)
 
 ### 2020
+
+[waiting][paper17]
+* Multiplicative Normalizing Flows for Variational Bayesian Neural Networks [[pdf]](https://arxiv.org/pdf/1703.01961.pdf)
+* Christos Louizos, Max Welling
+* `ICML 2017`
+* [[Bayesian Methods]](#bayesian-methods)
 
 [waiting][paper16]
 * On the uncertainty of self-supervised monocular depth estimation [[pdf]](On the uncertainty of self-supervised monocular depth estimation)
