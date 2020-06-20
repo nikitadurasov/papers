@@ -49,6 +49,12 @@ Just to make it convenient for me and (possibly) for other folks I'll store some
 
 ### Uncertainty Estimation
 
+[waiting][paper15]
+* Scalable Uncertainty for Computer Vision with Functional Variational Inference [[pdf]](http://openaccess.thecvf.com/content_CVPR_2020/papers/Carvalho_Scalable_Uncertainty_for_Computer_Vision_With_Functional_Variational_Inference_CVPR_2020_paper.pdf)
+* Eduardo D C Carvalho, Ronald Clark, Andrea Nicastro∗ Paul H J Kelly
+* `CVPR 2020`
+* [[Uncertatinty Estimation]](#uncertainty-estimation) [[Depth Estimation]](#depth-estimation)
+
 [waiting][paper14]
 * Uncertainty-Aware CNNs for Depth Completion: Uncertainty from Beginning to End [[pdf]](http://openaccess.thecvf.com/content_CVPR_2020/papers/Eldesokey_Uncertainty-Aware_CNNs_for_Depth_Completion_Uncertainty_from_Beginning_to_End_CVPR_2020_paper.pdf)
 * Abdelrahman Eldesokey, Michael Felsberg, Karl Holmquist, Michael Persson
@@ -219,6 +225,12 @@ Just to make it convenient for me and (possibly) for other folks I'll store some
 
 ### Depth Estimation
 
+[waiting][paper15]
+* Scalable Uncertainty for Computer Vision with Functional Variational Inference [[pdf]](http://openaccess.thecvf.com/content_CVPR_2020/papers/Carvalho_Scalable_Uncertainty_for_Computer_Vision_With_Functional_Variational_Inference_CVPR_2020_paper.pdf)
+* Eduardo D C Carvalho, Ronald Clark, Andrea Nicastro∗ Paul H J Kelly
+* `CVPR 2020`
+* [[Uncertatinty Estimation]](#uncertainty-estimation) [[Depth Estimation]](#depth-estimation)
+
 [waiting][paper14]
 * Uncertainty-Aware CNNs for Depth Completion: Uncertainty from Beginning to End [[pdf]](http://openaccess.thecvf.com/content_CVPR_2020/papers/Eldesokey_Uncertainty-Aware_CNNs_for_Depth_Completion_Uncertainty_from_Beginning_to_End_CVPR_2020_paper.pdf)
 * Abdelrahman Eldesokey, Michael Felsberg, Karl Holmquist, Michael Persson
@@ -226,6 +238,12 @@ Just to make it convenient for me and (possibly) for other folks I'll store some
 * [[Uncertatinty Estimation]](#uncertainty-estimation) [[Depth Estimation]](#depth-estimation)
 
 ### 2020
+
+[waiting][paper15]
+* Scalable Uncertainty for Computer Vision with Functional Variational Inference [[pdf]](http://openaccess.thecvf.com/content_CVPR_2020/papers/Carvalho_Scalable_Uncertainty_for_Computer_Vision_With_Functional_Variational_Inference_CVPR_2020_paper.pdf)
+* Eduardo D C Carvalho, Ronald Clark, Andrea Nicastro∗ Paul H J Kelly
+* `CVPR 2020`
+* [[Uncertatinty Estimation]](#uncertainty-estimation) [[Depth Estimation]](#depth-estimation)
 
 [waiting][paper14]
 * Uncertainty-Aware CNNs for Depth Completion: Uncertainty from Beginning to End [[pdf]](http://openaccess.thecvf.com/content_CVPR_2020/papers/Eldesokey_Uncertainty-Aware_CNNs_for_Depth_Completion_Uncertainty_from_Beginning_to_End_CVPR_2020_paper.pdf)
