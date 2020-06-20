@@ -49,6 +49,12 @@ Just to make it convenient for me and (possibly) for other folks I'll store some
 
 ### Uncertainty Estimation
 
+[waiting][paper14]
+* Uncertainty-Aware CNNs for Depth Completion: Uncertainty from Beginning to End [[pdf]](http://openaccess.thecvf.com/content_CVPR_2020/papers/Eldesokey_Uncertainty-Aware_CNNs_for_Depth_Completion_Uncertainty_from_Beginning_to_End_CVPR_2020_paper.pdf)
+* Abdelrahman Eldesokey, Michael Felsberg, Karl Holmquist, Michael Persson
+* `CVPR 2020`
+* [[Uncertatinty Estimation]](#uncertainty-estimation) [[Depth Estimation]](#depth-estimation)
+
 [waiting][paper13]
 * Deep Ensembles: A Loss Landscape Perspective
 * Stanislav Fort, Huiyi Hu, Balaji Lakshminarayanan
@@ -211,7 +217,21 @@ Just to make it convenient for me and (possibly) for other folks I'll store some
 * `05-12-2019, ICML 2020`
 * [[Bayesian Methods]](#bayesian-methods) [[Uncertatinty Estimation]](#uncertainty-estimation) [[Gaussian Processes]](#gaussian-processes)
 
+### Depth Estimation
+
+[waiting][paper14]
+* Uncertainty-Aware CNNs for Depth Completion: Uncertainty from Beginning to End [[pdf]](http://openaccess.thecvf.com/content_CVPR_2020/papers/Eldesokey_Uncertainty-Aware_CNNs_for_Depth_Completion_Uncertainty_from_Beginning_to_End_CVPR_2020_paper.pdf)
+* Abdelrahman Eldesokey, Michael Felsberg, Karl Holmquist, Michael Persson
+* `CVPR 2020`
+* [[Uncertatinty Estimation]](#uncertainty-estimation) [[Depth Estimation]](#depth-estimation)
+
 ### 2020
+
+[waiting][paper14]
+* Uncertainty-Aware CNNs for Depth Completion: Uncertainty from Beginning to End [[pdf]](http://openaccess.thecvf.com/content_CVPR_2020/papers/Eldesokey_Uncertainty-Aware_CNNs_for_Depth_Completion_Uncertainty_from_Beginning_to_End_CVPR_2020_paper.pdf)
+* Abdelrahman Eldesokey, Michael Felsberg, Karl Holmquist, Michael Persson
+* `CVPR 2020`
+* [[Uncertatinty Estimation]](#uncertainty-estimation) [[Depth Estimation]](#depth-estimation)
 
 [waiting][paper13]
 * Deep Ensembles: A Loss Landscape Perspective
