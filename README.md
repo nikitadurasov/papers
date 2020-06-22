@@ -317,6 +317,12 @@ Just to make it convenient for me and (possibly) for other folks I'll store some
 
 ### 2020
 
+[waiting][paper26]
+* Domain-Adaptive Multibranch Networks
+* Bermúdez Chacón, Róger ; Salzmann, Mathieu ; Fua, Pascal
+* `ICLR 2020`
+* [[Domain Adaptation]]
+
 [waiting][paper25]
 * DeepFakes and Beyond: A Survey of Face Manipulation and Fake Detection [[pdf]](https://arxiv.org/abs/2001.00179) 
 * Ruben Tolosana, Ruben Vera-Rodriguez, Julian Fierrez, Aythami Morales and Javier Ortega-Garcia
