@@ -49,6 +49,12 @@ Just to make it convenient for me and (possibly) for other folks I'll store some
 
 ### Uncertainty Estimation
 
+[waiting][paper23]
+* Concrete Dropout [[pdf]](https://arxiv.org/abs/1705.07832)
+* Yarin Gal, Jiri Hron, Alex Kendall
+* `NIPS 2017`
+* [[Uncertainty Estimation]](#uncertainty-estimation) [[Bayesian Methods]](#bayesian-methods)
+
 [waiting][paper22]
 * Stochastic Multiple Choice Learning for Training Diverse Deep Ensembles [[pdf]](https://arxiv.org/abs/1606.07839)
 * Stefan Lee, Senthil Purushwalkam, Michael Cogswell, Viresh Ranjan, David Crandall, Dhruv Batra
@@ -177,6 +183,12 @@ Just to make it convenient for me and (possibly) for other folks I'll store some
 
 ### Bayesian Methods
 
+[waiting][paper23]
+* Concrete Dropout [[pdf]](https://arxiv.org/abs/1705.07832)
+* Yarin Gal, Jiri Hron, Alex Kendall
+* `NIPS 2017`
+* [[Uncertainty Estimation]](#uncertainty-estimation) [[Bayesian Methods]](#bayesian-methods)
+
 [waiting][paper17]
 * Multiplicative Normalizing Flows for Variational Bayesian Neural Networks [[pdf]](https://arxiv.org/pdf/1703.01961.pdf)
 * Christos Louizos, Max Welling
@@ -292,6 +304,12 @@ Just to make it convenient for me and (possibly) for other folks I'll store some
 * [[Uncertatinty Estimation]](#uncertainty-estimation) [[Depth Estimation]](#depth-estimation)
 
 ### 2020
+
+[waiting][paper23]
+* Concrete Dropout [[pdf]](https://arxiv.org/abs/1705.07832)
+* Yarin Gal, Jiri Hron, Alex Kendall
+* `NIPS 2017`
+* [[Uncertainty Estimation]](#uncertainty-estimation) [[Bayesian Methods]](#bayesian-methods)
 
 [waiting][paper22]
 * Stochastic Multiple Choice Learning for Training Diverse Deep Ensembles [[pdf]](https://arxiv.org/abs/1606.07839)
