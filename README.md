@@ -317,6 +317,12 @@ Just to make it convenient for me and (possibly) for other folks I'll store some
 
 ### 2020
 
+[waiting][paper25]
+* DeepFakes and Beyond: A Survey of Face Manipulation and Fake Detection [[pdf]](https://arxiv.org/abs/2001.00179) 
+* Ruben Tolosana, Ruben Vera-Rodriguez, Julian Fierrez, Aythami Morales and Javier Ortega-Garcia
+* `arxiv`
+* [[DeepFakes]]
+
 [waiting][paper24]
 * Exploration by Random Network Distillation [[pdf]](https://arxiv.org/abs/1810.12894)
 * Yuri Burda, Harrison Edwards, Amos Storkey, Oleg Klimov
