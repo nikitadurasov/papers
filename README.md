@@ -229,6 +229,12 @@ Just to make it convenient for me and (possibly) for other folks I'll store some
 
 ### Gaussian Processes
 
+[waiting][paper18]
+* Deep Gaussian Processes [[pdf]](https://arxiv.org/abs/1211.0358) 
+* Andreas C. Damianou, Neil D. Lawrence
+* `AISTATS 2013`
+* [[Gaussian Processes]](#gaussian-processes)
+
 [waiting][paper3]
 * Neural Tangents: Fast and Easy Infinite Neural Networks in Python [[pdf]](https://arxiv.org/abs/1912.02803) [[video]](https://iclr.cc/virtual_2020/poster_SklD9yrFPS.html)
 * Roman Novak, Lechao Xiao, Jiri Hron, Jaehoon Lee, Alexander A. Alemi, Jascha Sohl-Dickstein, Samuel S. Schoenholz
@@ -256,6 +262,12 @@ Just to make it convenient for me and (possibly) for other folks I'll store some
 * [[Uncertatinty Estimation]](#uncertainty-estimation) [[Depth Estimation]](#depth-estimation)
 
 ### 2020
+
+[waiting][paper18]
+* Deep Gaussian Processes [[pdf]](https://arxiv.org/abs/1211.0358) 
+* Andreas C. Damianou, Neil D. Lawrence
+* `AISTATS 2013`
+* [[Gaussian Processes]](#gaussian-processes)
 
 [waiting][paper17]
 * Multiplicative Normalizing Flows for Variational Bayesian Neural Networks [[pdf]](https://arxiv.org/pdf/1703.01961.pdf)
