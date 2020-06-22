@@ -41,6 +41,12 @@ Just to make it convenient for me and (possibly) for other folks I'll store some
 
 ### Reinforcement Learning
 
+[waiting][paper24]
+* Exploration by Random Network Distillation [[pdf]](https://arxiv.org/abs/1810.12894)
+* Yuri Burda, Harrison Edwards, Amos Storkey, Oleg Klimov
+* `ICLR 2019`
+* [[Uncertainty Estimation]](#uncertainty-estimation) [[Reinforcement Learning]](#Reinforcement-learning)
+
 [waiting][paper9]
 * Deep Exploration via Randomized Value Functions [[pdf]](https://arxiv.org/pdf/1703.07608.pdf)
 * Ian Osband, Benjamin Van Roy, Daniel Russo, Zheng Wen
@@ -48,6 +54,12 @@ Just to make it convenient for me and (possibly) for other folks I'll store some
 * [[Reinforcement Learning]](#reinforcement-learning) [[Uncertatinty Estimation]](#uncertainty-estimation)
 
 ### Uncertainty Estimation
+
+[waiting][paper24]
+* Exploration by Random Network Distillation [[pdf]](https://arxiv.org/abs/1810.12894)
+* Yuri Burda, Harrison Edwards, Amos Storkey, Oleg Klimov
+* `ICLR 2019`
+* [[Uncertainty Estimation]](#uncertainty-estimation) [[Reinforcement Learning]](#Reinforcement-learning)
 
 [waiting][paper23]
 * Concrete Dropout [[pdf]](https://arxiv.org/abs/1705.07832)
@@ -304,6 +316,12 @@ Just to make it convenient for me and (possibly) for other folks I'll store some
 * [[Uncertatinty Estimation]](#uncertainty-estimation) [[Depth Estimation]](#depth-estimation)
 
 ### 2020
+
+[waiting][paper24]
+* Exploration by Random Network Distillation [[pdf]](https://arxiv.org/abs/1810.12894)
+* Yuri Burda, Harrison Edwards, Amos Storkey, Oleg Klimov
+* `ICLR 2019`
+* [[Uncertainty Estimation]](#uncertainty-estimation) [[Reinforcement Learning]](#Reinforcement-learning)
 
 [waiting][paper23]
 * Concrete Dropout [[pdf]](https://arxiv.org/abs/1705.07832)
