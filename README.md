@@ -49,6 +49,12 @@ Just to make it convenient for me and (possibly) for other folks I'll store some
 
 ### Uncertainty Estimation
 
+[waiting][paper21]
+* Accurate Uncertainty Estimation and Decomposition in Ensemble Learning [[pdf]](https://papers.nips.cc/paper/9097-accurate-uncertainty-estimation-and-decomposition-in-ensemble-learning)
+* Jeremiah Liu, John Paisley, Marianthi-Anna Kioumourtzoglou, Brent Coull
+* `NIPS 2019`
+* [[Uncertainty Estimation]](#uncertainty-estimation)
+
 [waiting][paper20]
 * Direct Uncertainty Prediction for Medical Second Opinions [[pdf]](https://arxiv.org/abs/1807.01771)
 * Maithra Raghu, Katy Blumer, Rory Sayres, Ziad Obermeyer, Robert Kleinberg, Sendhil Mullainathan, Jon Kleinberg
@@ -280,6 +286,12 @@ Just to make it convenient for me and (possibly) for other folks I'll store some
 * [[Uncertatinty Estimation]](#uncertainty-estimation) [[Depth Estimation]](#depth-estimation)
 
 ### 2020
+
+[waiting][paper21]
+* Accurate Uncertainty Estimation and Decomposition in Ensemble Learning [[pdf]](https://papers.nips.cc/paper/9097-accurate-uncertainty-estimation-and-decomposition-in-ensemble-learning)
+* Jeremiah Liu, John Paisley, Marianthi-Anna Kioumourtzoglou, Brent Coull
+* `NIPS 2019`
+* [[Uncertainty Estimation]](#uncertainty-estimation)
 
 [waiting][paper20]
 * Direct Uncertainty Prediction for Medical Second Opinions [[pdf]](https://arxiv.org/abs/1807.01771)
