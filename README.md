@@ -49,6 +49,12 @@ Just to make it convenient for me and (possibly) for other folks I'll store some
 
 ### Uncertainty Estimation
 
+[waiting][paper19]
+* Evaluating Scalable Bayesian Deep Learning Methods for Robust Computer Vision
+* Fredrik K. Gustafsson, Martin Danelljan, Thomas B. Schön
+* `CVPR 2020`
+* [[Depth Estimation]](#depth-estimation) [[Uncertainty Estimation]](#uncertainty-estimation)
+
 [waiting][paper16]
 * On the uncertainty of self-supervised monocular depth estimation [[pdf]](On the uncertainty of self-supervised monocular depth estimation)
 * Matteo Poggi Filippo Aleotti Fabio Tosi Stefano Mattoccia
@@ -243,6 +249,12 @@ Just to make it convenient for me and (possibly) for other folks I'll store some
 
 ### Depth Estimation
 
+[waiting][paper19]
+* Evaluating Scalable Bayesian Deep Learning Methods for Robust Computer Vision
+* Fredrik K. Gustafsson, Martin Danelljan, Thomas B. Schön
+* `CVPR 2020`
+* [[Depth Estimation]](#depth-estimation) [[Uncertainty Estimation]](#uncertainty-estimation)
+
 [waiting][paper16]
 * On the uncertainty of self-supervised monocular depth estimation [[pdf]](On the uncertainty of self-supervised monocular depth estimation)
 * Matteo Poggi Filippo Aleotti Fabio Tosi Stefano Mattoccia
@@ -262,6 +274,12 @@ Just to make it convenient for me and (possibly) for other folks I'll store some
 * [[Uncertatinty Estimation]](#uncertainty-estimation) [[Depth Estimation]](#depth-estimation)
 
 ### 2020
+
+[waiting][paper19]
+* Evaluating Scalable Bayesian Deep Learning Methods for Robust Computer Vision
+* Fredrik K. Gustafsson, Martin Danelljan, Thomas B. Schön
+* `CVPR 2020`
+* [[Depth Estimation]](#depth-estimation) [[Uncertainty Estimation]](#uncertainty-estimation)
 
 [waiting][paper18]
 * Deep Gaussian Processes [[pdf]](https://arxiv.org/abs/1211.0358) 
