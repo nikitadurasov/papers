@@ -49,6 +49,12 @@ Just to make it convenient for me and (possibly) for other folks I'll store some
 
 ### Uncertainty Estimation
 
+[waiting][paper22]
+* Stochastic Multiple Choice Learning for Training Diverse Deep Ensembles [[pdf]](https://arxiv.org/abs/1606.07839)
+* Stefan Lee, Senthil Purushwalkam, Michael Cogswell, Viresh Ranjan, David Crandall, Dhruv Batra
+* `NIPS 2016`
+* [[Uncertainty Estimation]](#uncertainty-estimation)
+
 [waiting][paper21]
 * Accurate Uncertainty Estimation and Decomposition in Ensemble Learning [[pdf]](https://papers.nips.cc/paper/9097-accurate-uncertainty-estimation-and-decomposition-in-ensemble-learning)
 * Jeremiah Liu, John Paisley, Marianthi-Anna Kioumourtzoglou, Brent Coull
@@ -286,6 +292,12 @@ Just to make it convenient for me and (possibly) for other folks I'll store some
 * [[Uncertatinty Estimation]](#uncertainty-estimation) [[Depth Estimation]](#depth-estimation)
 
 ### 2020
+
+[waiting][paper22]
+* Stochastic Multiple Choice Learning for Training Diverse Deep Ensembles [[pdf]](https://arxiv.org/abs/1606.07839)
+* Stefan Lee, Senthil Purushwalkam, Michael Cogswell, Viresh Ranjan, David Crandall, Dhruv Batra
+* `NIPS 2016`
+* [[Uncertainty Estimation]](#uncertainty-estimation)
 
 [waiting][paper21]
 * Accurate Uncertainty Estimation and Decomposition in Ensemble Learning [[pdf]](https://papers.nips.cc/paper/9097-accurate-uncertainty-estimation-and-decomposition-in-ensemble-learning)
