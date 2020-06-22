@@ -49,6 +49,12 @@ Just to make it convenient for me and (possibly) for other folks I'll store some
 
 ### Uncertainty Estimation
 
+[waiting][paper20]
+* Direct Uncertainty Prediction for Medical Second Opinions [[pdf]](https://arxiv.org/abs/1807.01771)
+* Maithra Raghu, Katy Blumer, Rory Sayres, Ziad Obermeyer, Robert Kleinberg, Sendhil Mullainathan, Jon Kleinberg
+* `ICML 2019`
+* [[Uncertainty Estimation]](#uncertainty-estimation)
+
 [waiting][paper19]
 * Evaluating Scalable Bayesian Deep Learning Methods for Robust Computer Vision
 * Fredrik K. Gustafsson, Martin Danelljan, Thomas B. Schön
@@ -274,6 +280,12 @@ Just to make it convenient for me and (possibly) for other folks I'll store some
 * [[Uncertatinty Estimation]](#uncertainty-estimation) [[Depth Estimation]](#depth-estimation)
 
 ### 2020
+
+[waiting][paper20]
+* Direct Uncertainty Prediction for Medical Second Opinions [[pdf]](https://arxiv.org/abs/1807.01771)
+* Maithra Raghu, Katy Blumer, Rory Sayres, Ziad Obermeyer, Robert Kleinberg, Sendhil Mullainathan, Jon Kleinberg
+* `ICML 2019`
+* [[Uncertainty Estimation]](#uncertainty-estimation)
 
 [waiting][paper19]
 * Evaluating Scalable Bayesian Deep Learning Methods for Robust Computer Vision
