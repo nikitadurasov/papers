@@ -31,6 +31,14 @@ Just to make it convenient for me and (possibly) for other folks I'll store some
 * `Caltech 1992`
 * [[Bayesian Methods]](#bayesian-methods) [[Uncertatinty Estimation]](#uncertainty-estimation)
 
+### Federated Learning
+
+[waiting][paper28]
+* Federated Machine Learning: Concept and Applications
+* Qiang Yang, Yang Liu, Tianjian Chen, Yongxin Tong
+* `ACM TIST 2019`
+* [[Federated Learning]](#federated-learning)
+
 ### Generative Models
 
 [waiting][thesis2]
@@ -322,6 +330,12 @@ Just to make it convenient for me and (possibly) for other folks I'll store some
 * [[Uncertatinty Estimation]](#uncertainty-estimation) [[Depth Estimation]](#depth-estimation)
 
 ### 2020
+
+[waiting][paper28]
+* Federated Machine Learning: Concept and Applications
+* Qiang Yang, Yang Liu, Tianjian Chen, Yongxin Tong
+* `ACM TIST 2019`
+* [[Federated Learning]](#federated-learning)
 
 [waiting][paper27]
 * Ensemble Distribution Distillation [[pdf]](https://arxiv.org/abs/1905.00076)
