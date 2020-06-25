@@ -457,7 +457,7 @@ Just to make it convenient for me and (possibly) for other folks I'll store some
 * `AICS 2019`
 * [[Bayesian Methods]](#bayesian-methods) [[Uncertatinty Estimation]](#uncertainty-estimation)
 
-[waiting][paper7]
+[24-06-2020][paper7]
 * On Calibration of Modern Neural Networks
 * Chuan Guo, Geoff Pleiss, Yu Sun, Kilian Q. Weinberger
 * `ICLR 2017`
