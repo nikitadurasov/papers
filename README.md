@@ -283,11 +283,18 @@ Just to make it convenient for me and (possibly) for other folks I'll store some
 
 ### Natural Language Processing 
 
+[waiting][paper30]
+* BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding
+* Jacob Devlin, Ming-Wei Chang, Kenton Lee, Kristina Toutanova
+* `ACL 2017`
+* [[Natural Language Processing]](#natural-language-processing)
+
 [waiting][paper29]
 * Attention Is All You Need
 * Ashish Vaswani, Noam Shazeer, Niki Parmar, Jakob Uszkoreit, Llion Jones, Aidan N. Gomez, Lukasz Kaiser, Illia Polosukhin
 * `NIPS 2017`
 * [[Natural Language Processing]](#natural-language-processing)
+
 
 [waiting][paper1]
 * Unsupervised Translation of Programming Languages [[pdf]](https://arxiv.org/pdf/2006.03511.pdf)
@@ -336,6 +343,12 @@ Just to make it convenient for me and (possibly) for other folks I'll store some
 * [[Uncertatinty Estimation]](#uncertainty-estimation) [[Depth Estimation]](#depth-estimation)
 
 ### 2020
+
+[waiting][paper30]
+* BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding
+* Jacob Devlin, Ming-Wei Chang, Kenton Lee, Kristina Toutanova
+* `ACL 2017`
+* [[Natural Language Processing]](#natural-language-processing)
 
 [waiting][paper29]
 * Attention Is All You Need
