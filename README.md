@@ -8,6 +8,7 @@ Just to make it convenient for me and (possibly) for other folks I'll store some
 - [Uncertainty Estimation](#uncertainty-estimation)
 - [Bayesian Methods](#bayesian-methods)
 - [Natural Language Processing ](#natural-language-processing )
+- [Computer Vision](#computer-vision)
 
 ****
 
@@ -30,6 +31,14 @@ Just to make it convenient for me and (possibly) for other folks I'll store some
 * David Mackay
 * `Caltech 1992`
 * [[Bayesian Methods]](#bayesian-methods) [[Uncertatinty Estimation]](#uncertainty-estimation)
+
+### Computer Vision
+
+[waiting][paper31]
+* Image Transformer
+* Niki Parmar, Ashish Vaswani, Jakob Uszkoreit, Łukasz Kaiser, Noam Shazeer, Alexander Ku, Dustin Tran
+* `ICML 2018`
+* [[Computer Vision]](#computer-vision)
 
 ### Federated Learning
 
@@ -343,6 +352,12 @@ Just to make it convenient for me and (possibly) for other folks I'll store some
 * [[Uncertatinty Estimation]](#uncertainty-estimation) [[Depth Estimation]](#depth-estimation)
 
 ### 2020
+
+[waiting][paper31]
+* Image Transformer
+* Niki Parmar, Ashish Vaswani, Jakob Uszkoreit, Łukasz Kaiser, Noam Shazeer, Alexander Ku, Dustin Tran
+* `ICML 2018`
+* [[Computer Vision]](#computer-vision)
 
 [waiting][paper30]
 * BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding
