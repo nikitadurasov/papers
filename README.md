@@ -14,7 +14,13 @@ Just to make it convenient for me and (possibly) for other folks I'll store some
 
 ### PhD Theses
 
-[waiting][paper4]
+[waiting][thesis5]
+* Neural Density Estimation and Likelihood-free Inference
+* George Papamakarios
+* `University of Edinburgh 2019`
+* [[Uncertainty Estimation]](#uncertainty-estimation)
+
+[waiting][thesis4]
 * Uncertainty Detection in Natural Language Texts
 * Veronika Vincze
 * `University of Szeged 2014`
@@ -78,7 +84,13 @@ Just to make it convenient for me and (possibly) for other folks I'll store some
 
 ### Uncertainty Estimation
 
-[waiting][paper4]
+[waiting][thesis5]
+* Neural Density Estimation and Likelihood-free Inference
+* George Papamakarios
+* `University of Edinburgh 2019`
+* [[Uncertainty Estimation]](#uncertainty-estimation)
+
+[waiting][thesis4]
 * Uncertainty Detection in Natural Language Texts
 * Veronika Vincze
 * `University of Szeged 2014`
