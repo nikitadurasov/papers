@@ -14,6 +14,12 @@ Just to make it convenient for me and (possibly) for other folks I'll store some
 
 ### PhD Theses
 
+[waiting][paper4]
+* Uncertainty Detection in Natural Language Texts
+* Veronika Vincze
+* `University of Szeged 2014`
+* [[Natural Language Processing]](#natural-language-processing) [[Uncertainty Estimation]](#uncertainty-estimation)
+
 [waiting][thesis3]
 * Bayesian Learning for Neural Networks
 * Radford M. Neal
@@ -71,6 +77,12 @@ Just to make it convenient for me and (possibly) for other folks I'll store some
 * [[Reinforcement Learning]](#reinforcement-learning) [[Uncertatinty Estimation]](#uncertainty-estimation)
 
 ### Uncertainty Estimation
+
+[waiting][paper4]
+* Uncertainty Detection in Natural Language Texts
+* Veronika Vincze
+* `University of Szeged 2014`
+* [[Natural Language Processing]](#natural-language-processing) [[Uncertainty Estimation]](#uncertainty-estimation)
 
 [waiting][paper27]
 * Ensemble Distribution Distillation [[pdf]](https://arxiv.org/abs/1905.00076)
@@ -291,6 +303,12 @@ Just to make it convenient for me and (possibly) for other folks I'll store some
 * [[Bayesian Methods]](#bayesian-methods) [[Uncertatinty Estimation]](#uncertainty-estimation)
 
 ### Natural Language Processing 
+
+[waiting][paper4]
+* Uncertainty Detection in Natural Language Texts
+* Veronika Vincze
+* `University of Szeged 2014`
+* [[Natural Language Processing]](#natural-language-processing) [[Uncertainty Estimation]](#uncertainty-estimation)
 
 [waiting][paper32]
 * Neural Machine Translation of Rare Words with Subword Units
