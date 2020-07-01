@@ -292,6 +292,12 @@ Just to make it convenient for me and (possibly) for other folks I'll store some
 
 ### Natural Language Processing 
 
+[waiting][paper32]
+* Neural Machine Translation of Rare Words with Subword Units
+* Rico Sennrich, Barry Haddow, Alexandra Birch
+* `ACL 2016`
+* [[Natural Language Processing]](#natural-language-processing)
+
 [waiting][paper30]
 * BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding
 * Jacob Devlin, Ming-Wei Chang, Kenton Lee, Kristina Toutanova
@@ -352,6 +358,12 @@ Just to make it convenient for me and (possibly) for other folks I'll store some
 * [[Uncertatinty Estimation]](#uncertainty-estimation) [[Depth Estimation]](#depth-estimation)
 
 ### 2020
+
+[waiting][paper32]
+* Neural Machine Translation of Rare Words with Subword Units
+* Rico Sennrich, Barry Haddow, Alexandra Birch
+* `ACL 2016`
+* [[Natural Language Processing]](#natural-language-processing)
 
 [waiting][paper31]
 * Image Transformer
