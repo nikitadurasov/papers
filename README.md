@@ -359,6 +359,11 @@ Just to make it convenient for me and (possibly) for other folks I'll store some
 
 ### 2020
 
+[waiting][paper33]
+* Layer Normalization
+* Jimmy Lei Ba, Jamie Ryan Kiros, Geoffrey E. Hinton
+* `? 2016`
+
 [waiting][paper32]
 * Neural Machine Translation of Rare Words with Subword Units
 * Rico Sennrich, Barry Haddow, Alexandra Birch
