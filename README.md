@@ -242,6 +242,12 @@ Just to make it convenient for me and (possibly) for other folks I'll store some
 
 ### Bayesian Methods
 
+[waiting][paper34]
+* Normalizing Flows for Probabilistic Modeling and Inference
+* George Papamakarios, Eric Nalisnick, Danilo Jimenez Rezende, Shakir Mohamed, Balaji Lakshminarayanan
+* `review article 2019`
+* [[Bayesian Methods]](#bayesian-methods)
+
 [waiting][paper23]
 * Concrete Dropout [[pdf]](https://arxiv.org/abs/1705.07832)
 * Yarin Gal, Jiri Hron, Alex Kendall
@@ -388,6 +394,12 @@ Just to make it convenient for me and (possibly) for other folks I'll store some
 * [[Uncertatinty Estimation]](#uncertainty-estimation) [[Depth Estimation]](#depth-estimation)
 
 ### 2020
+
+[waiting][paper34]
+* Normalizing Flows for Probabilistic Modeling and Inference
+* George Papamakarios, Eric Nalisnick, Danilo Jimenez Rezende, Shakir Mohamed, Balaji Lakshminarayanan
+* `review article 2019`
+* [[Bayesian Methods]](#bayesian-methods)
 
 [waiting][paper33]
 * Layer Normalization
