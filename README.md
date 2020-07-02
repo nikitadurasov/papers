@@ -84,6 +84,12 @@ Just to make it convenient for me and (possibly) for other folks I'll store some
 
 ### Uncertainty Estimation
 
+[waiting][paper36]
+* Uncertainty in Structured Prediction
+* Andrey Malinin, Mark Gales
+* `arxiv 2019`
+* [[Uncertainty Estimation]](#uncertainty-estimation)
+
 [waiting][paper35]
 * Quantifying Uncertainties in Natural Language Processing Tasks
 * Yijun Xiao, William Yang Wang
@@ -406,6 +412,12 @@ Just to make it convenient for me and (possibly) for other folks I'll store some
 * [[Uncertatinty Estimation]](#uncertainty-estimation) [[Depth Estimation]](#depth-estimation)
 
 ### 2020
+
+[waiting][paper36]
+* Uncertainty in Structured Prediction
+* Andrey Malinin, Mark Gales
+* `arxiv 2019`
+* [[Uncertainty Estimation]](#uncertainty-estimation)
 
 [waiting][paper35]
 * Quantifying Uncertainties in Natural Language Processing Tasks
