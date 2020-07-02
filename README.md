@@ -84,6 +84,12 @@ Just to make it convenient for me and (possibly) for other folks I'll store some
 
 ### Uncertainty Estimation
 
+[waiting][paper35]
+* Quantifying Uncertainties in Natural Language Processing Tasks
+* Yijun Xiao, William Yang Wang
+* `AAAI 2019`
+* [[Natural Language Processing]](#natural-language-processing) [[Uncertainty Estimation]](#uncertainty-estimation)
+
 [waiting][thesis5]
 * Neural Density Estimation and Likelihood-free Inference
 * George Papamakarios
@@ -322,6 +328,12 @@ Just to make it convenient for me and (possibly) for other folks I'll store some
 
 ### Natural Language Processing 
 
+[waiting][paper35]
+* Quantifying Uncertainties in Natural Language Processing Tasks
+* Yijun Xiao, William Yang Wang
+* `AAAI 2019`
+* [[Natural Language Processing]](#natural-language-processing) [[Uncertainty Estimation]](#uncertainty-estimation)
+
 [waiting][paper4]
 * Uncertainty Detection in Natural Language Texts
 * Veronika Vincze
@@ -394,6 +406,12 @@ Just to make it convenient for me and (possibly) for other folks I'll store some
 * [[Uncertatinty Estimation]](#uncertainty-estimation) [[Depth Estimation]](#depth-estimation)
 
 ### 2020
+
+[waiting][paper35]
+* Quantifying Uncertainties in Natural Language Processing Tasks
+* Yijun Xiao, William Yang Wang
+* `AAAI 2019`
+* [[Natural Language Processing]](#natural-language-processing) [[Uncertainty Estimation]](#uncertainty-estimation)
 
 [waiting][paper34]
 * Normalizing Flows for Probabilistic Modeling and Inference
