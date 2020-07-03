@@ -70,6 +70,12 @@ Just to make it convenient for me and (possibly) for other folks I'll store some
 
 ### Reinforcement Learning
 
+[waiting][paper37]
+* A Tutorial on Thompson Sampling
+* Daniel Russo, Benjamin Van Roy, Abbas Kazerouni, Ian Osband, Zheng Wen
+* `arxiv 2017`
+* [[Uncertainty Estimation]](#uncertainty-estimation) [[Reinforcement Learning]](#reinforcement-learning)
+
 [waiting][paper24]
 * Exploration by Random Network Distillation [[pdf]](https://arxiv.org/abs/1810.12894)
 * Yuri Burda, Harrison Edwards, Amos Storkey, Oleg Klimov
@@ -83,6 +89,12 @@ Just to make it convenient for me and (possibly) for other folks I'll store some
 * [[Reinforcement Learning]](#reinforcement-learning) [[Uncertatinty Estimation]](#uncertainty-estimation)
 
 ### Uncertainty Estimation
+
+[waiting][paper37]
+* A Tutorial on Thompson Sampling
+* Daniel Russo, Benjamin Van Roy, Abbas Kazerouni, Ian Osband, Zheng Wen
+* `arxiv 2017`
+* [[Uncertainty Estimation]](#uncertainty-estimation) [[Reinforcement Learning]](#reinforcement-learning)
 
 [waiting][paper36]
 * Uncertainty in Structured Prediction
@@ -412,6 +424,12 @@ Just to make it convenient for me and (possibly) for other folks I'll store some
 * [[Uncertatinty Estimation]](#uncertainty-estimation) [[Depth Estimation]](#depth-estimation)
 
 ### 2020
+
+[waiting][paper37]
+* A Tutorial on Thompson Sampling
+* Daniel Russo, Benjamin Van Roy, Abbas Kazerouni, Ian Osband, Zheng Wen
+* `arxiv 2017`
+* [[Uncertainty Estimation]](#uncertainty-estimation) [[Reinforcement Learning]](#reinforcement-learning)
 
 [waiting][paper36]
 * Uncertainty in Structured Prediction
