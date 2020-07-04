@@ -429,7 +429,29 @@ Just to make it convenient for me and (possibly) for other folks I'll store some
 * `CVPR 2020`
 * [[Uncertatinty Estimation]](#uncertainty-estimation) [[Depth Estimation]](#depth-estimation)
 
+### Random 
+
+Place for papers, that I don't really want to categorize ;)
+
+[waiting][paper39]
+* Pointer Networks
+* Oriol Vinyals, Meire Fortunato, Navdeep Jaitly
+* `NIPS 2015`
+* [[Random]](#random)
+
+[waiting][paper33]
+* Layer Normalization
+* Jimmy Lei Ba, Jamie Ryan Kiros, Geoffrey E. Hinton
+* `? 2016`
+* [[Random]](#random)
+
 ### 2020
+
+[waiting][paper39]
+* Pointer Networks
+* Oriol Vinyals, Meire Fortunato, Navdeep Jaitly
+* `NIPS 2015`
+* [[Random]](#random)
 
 [waiting][paper38]
 * AugMix: A Simple Data Processing Method to Improve Robustness and Uncertainty
@@ -465,6 +487,7 @@ Just to make it convenient for me and (possibly) for other folks I'll store some
 * Layer Normalization
 * Jimmy Lei Ba, Jamie Ryan Kiros, Geoffrey E. Hinton
 * `? 2016`
+* [[Random]](#random)
 
 [waiting][paper32]
 * Neural Machine Translation of Rare Words with Subword Units
