@@ -90,6 +90,12 @@ Just to make it convenient for me and (possibly) for other folks I'll store some
 
 ### Uncertainty Estimation
 
+[waiting][paper38]
+* AugMix: A Simple Data Processing Method to Improve Robustness and Uncertainty
+* Dan Hendrycks, Norman Mu, Ekin D. Cubuk, Barret Zoph, Justin Gilmer, Balaji Lakshminarayanan
+* `ICLR 2020`
+* [[Uncertainty Estimation]](#uncertainty-estimation)
+
 [waiting][paper37]
 * A Tutorial on Thompson Sampling
 * Daniel Russo, Benjamin Van Roy, Abbas Kazerouni, Ian Osband, Zheng Wen
@@ -424,6 +430,12 @@ Just to make it convenient for me and (possibly) for other folks I'll store some
 * [[Uncertatinty Estimation]](#uncertainty-estimation) [[Depth Estimation]](#depth-estimation)
 
 ### 2020
+
+[waiting][paper38]
+* AugMix: A Simple Data Processing Method to Improve Robustness and Uncertainty
+* Dan Hendrycks, Norman Mu, Ekin D. Cubuk, Barret Zoph, Justin Gilmer, Balaji Lakshminarayanan
+* `ICLR 2020`
+* [[Uncertainty Estimation]](#uncertainty-estimation)
 
 [waiting][paper37]
 * A Tutorial on Thompson Sampling
