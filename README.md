@@ -296,6 +296,12 @@ Just to make it convenient for me and (possibly) for other folks I'll store some
 
 ### Bayesian Methods
 
+[waiting][paper42]
+* Explaining the Gibbs Sampler
+* George Casella, Edward I. George
+* `TAS 1992`
+* [[Bayesian Methods]](#bayesian-methods)
+
 [waiting][paper34]
 * Normalizing Flows for Probabilistic Modeling and Inference
 * George Papamakarios, Eric Nalisnick, Danilo Jimenez Rezende, Shakir Mohamed, Balaji Lakshminarayanan
@@ -470,6 +476,12 @@ Place for papers, that I don't really want to categorize ;)
 * [[Random]](#random)
 
 ### 2020
+
+[waiting][paper42]
+* Explaining the Gibbs Sampler
+* George Casella, Edward I. George
+* `TAS 1992`
+* [[Bayesian Methods]](#bayesian-methods)
 
 [waiting][paper41]
 * Efficient GAN-Based Anomaly Detection
