@@ -62,6 +62,12 @@ Just to make it convenient for me and (possibly) for other folks I'll store some
 
 ### Generative Models
 
+[waiting][paper41]
+* Efficient GAN-Based Anomaly Detection
+* Houssam Zenati, Chuan Sheng Foo, Bruno Lecouat, Gaurav Manek, Vijay Ramaseshan Chandrasekhar
+* `ICDM 2018`
+* [[Uncertainty Estimation]](#uncertainty-estimation) [[Generative Models]](#generative-models)
+
 [waiting][paper40]
 * A Survey on GANs for Anomaly Detection
 * Federico Di Mattia, Paolo Galeone, Michele De Simoni, Emanuele Ghelfi
@@ -95,6 +101,12 @@ Just to make it convenient for me and (possibly) for other folks I'll store some
 * [[Reinforcement Learning]](#reinforcement-learning) [[Uncertatinty Estimation]](#uncertainty-estimation)
 
 ### Uncertainty Estimation
+
+[waiting][paper41]
+* Efficient GAN-Based Anomaly Detection
+* Houssam Zenati, Chuan Sheng Foo, Bruno Lecouat, Gaurav Manek, Vijay Ramaseshan Chandrasekhar
+* `ICDM 2018`
+* [[Uncertainty Estimation]](#uncertainty-estimation) [[Generative Models]](#generative-models)
 
 [waiting][paper40]
 * A Survey on GANs for Anomaly Detection
@@ -458,6 +470,12 @@ Place for papers, that I don't really want to categorize ;)
 * [[Random]](#random)
 
 ### 2020
+
+[waiting][paper41]
+* Efficient GAN-Based Anomaly Detection
+* Houssam Zenati, Chuan Sheng Foo, Bruno Lecouat, Gaurav Manek, Vijay Ramaseshan Chandrasekhar
+* `ICDM 2018`
+* [[Uncertainty Estimation]](#uncertainty-estimation) [[Generative Models]](#generative-models)
 
 [waiting][paper40]
 * A Survey on GANs for Anomaly Detection
