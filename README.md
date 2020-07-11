@@ -296,7 +296,7 @@ Just to make it convenient for me and (possibly) for other folks I'll store some
 
 ### Bayesian Methods
 
-[waiting][paper42]
+[waiting][paper42] [[pdf]](http://biostat.jhsph.edu/~mmccall/articles/casella_1992.pdf)
 * Explaining the Gibbs Sampler
 * George Casella, Edward I. George
 * `TAS 1992`
@@ -477,7 +477,7 @@ Place for papers, that I don't really want to categorize ;)
 
 ### 2020
 
-[waiting][paper42]
+[waiting][paper42] [[pdf]](http://biostat.jhsph.edu/~mmccall/articles/casella_1992.pdf)
 * Explaining the Gibbs Sampler
 * George Casella, Edward I. George
 * `TAS 1992`
