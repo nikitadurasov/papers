@@ -62,6 +62,12 @@ Just to make it convenient for me and (possibly) for other folks I'll store some
 
 ### Generative Models
 
+[waiting][paper40]
+* A Survey on GANs for Anomaly Detection
+* Federico Di Mattia, Paolo Galeone, Michele De Simoni, Emanuele Ghelfi
+* `arxiv 2019`
+* [[Uncertainty Estimation]](#uncertainty-estimation) [[Generative Models]](#generative-models)
+
 [waiting][thesis2]
 * Inference and Learning in Deep Generative Models [[pdf]](http://www2.bio.ku.dk/bibliotek/phd/Casper%20Kaae%20S%F8nderby.pdf)
 * Casper Kaae Sønderby
@@ -89,6 +95,12 @@ Just to make it convenient for me and (possibly) for other folks I'll store some
 * [[Reinforcement Learning]](#reinforcement-learning) [[Uncertatinty Estimation]](#uncertainty-estimation)
 
 ### Uncertainty Estimation
+
+[waiting][paper40]
+* A Survey on GANs for Anomaly Detection
+* Federico Di Mattia, Paolo Galeone, Michele De Simoni, Emanuele Ghelfi
+* `arxiv 2019`
+* [[Uncertainty Estimation]](#uncertainty-estimation) [[Generative Models]](#generative-models)
 
 [waiting][paper38]
 * AugMix: A Simple Data Processing Method to Improve Robustness and Uncertainty
@@ -446,6 +458,12 @@ Place for papers, that I don't really want to categorize ;)
 * [[Random]](#random)
 
 ### 2020
+
+[waiting][paper40]
+* A Survey on GANs for Anomaly Detection
+* Federico Di Mattia, Paolo Galeone, Michele De Simoni, Emanuele Ghelfi
+* `arxiv 2019`
+* [[Uncertainty Estimation]](#uncertainty-estimation) [[Generative Models]](#generative-models)
 
 [waiting][paper39]
 * Pointer Networks
