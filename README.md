@@ -102,6 +102,12 @@ Just to make it convenient for me and (possibly) for other folks I'll store some
 
 ### Uncertainty Estimation
 
+[waiting][paper43] [[pdf]](https://arxiv.org/abs/1906.02425)
+* Uncertainty-guided Continual Learning with Bayesian Neural Networks
+* Sayna Ebrahimi, Mohamed Elhoseiny, Trevor Darrell, Marcus Rohrbach
+* `ICLR 2020`
+* [[Bayesian Methods]](#bayesian-methods)
+
 [waiting][paper41]
 * Efficient GAN-Based Anomaly Detection
 * Houssam Zenati, Chuan Sheng Foo, Bruno Lecouat, Gaurav Manek, Vijay Ramaseshan Chandrasekhar
@@ -296,6 +302,12 @@ Just to make it convenient for me and (possibly) for other folks I'll store some
 
 ### Bayesian Methods
 
+[waiting][paper43] [[pdf]](https://arxiv.org/abs/1906.02425)
+* Uncertainty-guided Continual Learning with Bayesian Neural Networks
+* Sayna Ebrahimi, Mohamed Elhoseiny, Trevor Darrell, Marcus Rohrbach
+* `ICLR 2020`
+* [[Bayesian Methods]](#bayesian-methods)
+
 [waiting][paper42] [[pdf]](http://biostat.jhsph.edu/~mmccall/articles/casella_1992.pdf)
 * Explaining the Gibbs Sampler
 * George Casella, Edward I. George
@@ -476,6 +488,12 @@ Place for papers, that I don't really want to categorize ;)
 * [[Random]](#random)
 
 ### 2020
+
+[waiting][paper43] [[pdf]](https://arxiv.org/abs/1906.02425)
+* Uncertainty-guided Continual Learning with Bayesian Neural Networks
+* Sayna Ebrahimi, Mohamed Elhoseiny, Trevor Darrell, Marcus Rohrbach
+* `ICLR 2020`
+* [[Bayesian Methods]](#bayesian-methods)
 
 [waiting][paper42] [[pdf]](http://biostat.jhsph.edu/~mmccall/articles/casella_1992.pdf)
 * Explaining the Gibbs Sampler
