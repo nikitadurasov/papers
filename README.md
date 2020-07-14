@@ -102,6 +102,12 @@ Just to make it convenient for me and (possibly) for other folks I'll store some
 
 ### Uncertainty Estimation
 
+[waiting][paper44] 
+* Concrete Dropout
+* Yarin Gal, Jiri Hron, Alex Kendall
+* `NIPS 2017`
+* [[Bayesian Methods]](#bayesian-methods) [[Uncertainty Estimation]](#uncertainty-estimation)
+
 [waiting][paper43] [[pdf]](https://arxiv.org/abs/1906.02425)
 * Uncertainty-guided Continual Learning with Bayesian Neural Networks
 * Sayna Ebrahimi, Mohamed Elhoseiny, Trevor Darrell, Marcus Rohrbach
@@ -302,6 +308,12 @@ Just to make it convenient for me and (possibly) for other folks I'll store some
 
 ### Bayesian Methods
 
+[waiting][paper44] 
+* Concrete Dropout
+* Yarin Gal, Jiri Hron, Alex Kendall
+* `NIPS 2017`
+* [[Bayesian Methods]](#bayesian-methods) [[Uncertainty Estimation]](#uncertainty-estimation)
+
 [waiting][paper43] [[pdf]](https://arxiv.org/abs/1906.02425)
 * Uncertainty-guided Continual Learning with Bayesian Neural Networks
 * Sayna Ebrahimi, Mohamed Elhoseiny, Trevor Darrell, Marcus Rohrbach
@@ -488,6 +500,12 @@ Place for papers, that I don't really want to categorize ;)
 * [[Random]](#random)
 
 ### 2020
+
+[waiting][paper44] 
+* Concrete Dropout
+* Yarin Gal, Jiri Hron, Alex Kendall
+* `NIPS 2017`
+* [[Bayesian Methods]](#bayesian-methods) [[Uncertainty Estimation]](#uncertainty-estimation)
 
 [waiting][paper43] [[pdf]](https://arxiv.org/abs/1906.02425)
 * Uncertainty-guided Continual Learning with Bayesian Neural Networks
