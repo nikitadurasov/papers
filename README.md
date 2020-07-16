@@ -308,6 +308,12 @@ Just to make it convenient for me and (possibly) for other folks I'll store some
 
 ### Bayesian Methods
 
+[waiting][paper45] 
+* Variational Inference: A Review for Statisticians
+* David M. Blei, Alp Kucukelbir, Jon D. McAuliffe
+* `JASA 2017`
+* [[Bayesian Methods]](#bayesian-methods)
+
 [waiting][paper44] 
 * Concrete Dropout
 * Yarin Gal, Jiri Hron, Alex Kendall
@@ -500,6 +506,12 @@ Place for papers, that I don't really want to categorize ;)
 * [[Random]](#random)
 
 ### 2020
+
+[waiting][paper45] 
+* Variational Inference: A Review for Statisticians
+* David M. Blei, Alp Kucukelbir, Jon D. McAuliffe
+* `JASA 2017`
+* [[Bayesian Methods]](#bayesian-methods)
 
 [waiting][paper44] 
 * Concrete Dropout
