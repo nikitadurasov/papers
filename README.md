@@ -102,6 +102,12 @@ Just to make it convenient for me and (possibly) for other folks I'll store some
 
 ### Uncertainty Estimation
 
+[22-07-2020][paper47] 
+* Exploring Uncertainty Measures in Deep Networks for Multiple Sclerosis Lesion Detection and Segmentation
+* Tanya Nair, Doina Precup, Douglas L. Arnold, Tal Arbel
+* `MICCAI 2018`
+* [[Uncertainty Estimation]](#uncertainty-estimation)
+
 [22-07-2020][paper46] 
 * Importance of being uncertain
 * Martin Krzywinski, Naomi Altman
@@ -513,7 +519,13 @@ Place for papers, that I don't really want to categorize ;)
 
 ### 2020
 
-[waiting][paper46] 
+[22-07-2020][paper47] 
+* Exploring Uncertainty Measures in Deep Networks for Multiple Sclerosis Lesion Detection and Segmentation
+* Tanya Nair, Doina Precup, Douglas L. Arnold, Tal Arbel
+* `MICCAI 2018`
+* [[Uncertainty Estimation]](#uncertainty-estimation)
+
+[22-07-2020][paper46] 
 * Importance of being uncertain
 * Martin Krzywinski, Naomi Altman
 * `Nature 2013`
