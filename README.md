@@ -102,6 +102,12 @@ Just to make it convenient for me and (possibly) for other folks I'll store some
 
 ### Uncertainty Estimation
 
+[22-07-2020][paper48] 
+* Leveraging uncertainty information from deep neural networks for disease detection
+* Christian Leibig, Vaneeda Allken, Murat Seçkin Ayhan, Philipp Berens, Siegfried Wahl
+* `Nature 2017`
+* [[Uncertainty Estimation]](#uncertainty-estimation)
+
 [22-07-2020][paper47] 
 * Exploring Uncertainty Measures in Deep Networks for Multiple Sclerosis Lesion Detection and Segmentation
 * Tanya Nair, Doina Precup, Douglas L. Arnold, Tal Arbel
@@ -518,6 +524,12 @@ Place for papers, that I don't really want to categorize ;)
 * [[Random]](#random)
 
 ### 2020
+
+[22-07-2020][paper48] 
+* Leveraging uncertainty information from deep neural networks for disease detection
+* Christian Leibig, Vaneeda Allken, Murat Seçkin Ayhan, Philipp Berens, Siegfried Wahl
+* `Nature 2017`
+* [[Uncertainty Estimation]](#uncertainty-estimation)
 
 [22-07-2020][paper47] 
 * Exploring Uncertainty Measures in Deep Networks for Multiple Sclerosis Lesion Detection and Segmentation
