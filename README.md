@@ -513,6 +513,14 @@ Just to make it convenient for me and (possibly) for other folks I'll store some
 * `CVPR 2020`
 * [[Uncertatinty Estimation]](#uncertainty-estimation) [[Depth Estimation]](#depth-estimation)
 
+### Active Learning
+
+[22-07-2020][paper50] 
+* A Sequential Algorithm for Training Text Classifiers
+* David D. Lewis, William A. Gale
+* `ICDS 2019`
+* [[Uncertainty Estimation]](#uncertainty-estimation)
+
 ### Random 
 
 Place for papers, that I don't really want to categorize ;)
@@ -530,6 +538,12 @@ Place for papers, that I don't really want to categorize ;)
 * [[Random]](#random)
 
 ### 2020
+
+[22-07-2020][paper50] 
+* A Sequential Algorithm for Training Text Classifiers
+* David D. Lewis, William A. Gale
+* `ICDS 2019`
+* [[Uncertainty Estimation]](#uncertainty-estimation)
 
 [22-07-2020][paper49] 
 * Epistemic Uncertainty Sampling
