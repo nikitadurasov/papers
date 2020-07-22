@@ -102,6 +102,12 @@ Just to make it convenient for me and (possibly) for other folks I'll store some
 
 ### Uncertainty Estimation
 
+[22-07-2020][paper49] 
+* Epistemic Uncertainty Sampling
+* Vu-Linh Nguyen, Sébastien Destercke, Eyke Hüllermeier
+* `ICDS 2019`
+* [[Uncertainty Estimation]](#uncertainty-estimation)
+
 [22-07-2020][paper48] 
 * Leveraging uncertainty information from deep neural networks for disease detection
 * Christian Leibig, Vaneeda Allken, Murat Seçkin Ayhan, Philipp Berens, Siegfried Wahl
@@ -524,6 +530,12 @@ Place for papers, that I don't really want to categorize ;)
 * [[Random]](#random)
 
 ### 2020
+
+[22-07-2020][paper49] 
+* Epistemic Uncertainty Sampling
+* Vu-Linh Nguyen, Sébastien Destercke, Eyke Hüllermeier
+* `ICDS 2019`
+* [[Uncertainty Estimation]](#uncertainty-estimation)
 
 [22-07-2020][paper48] 
 * Leveraging uncertainty information from deep neural networks for disease detection
