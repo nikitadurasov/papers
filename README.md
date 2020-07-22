@@ -102,6 +102,12 @@ Just to make it convenient for me and (possibly) for other folks I'll store some
 
 ### Uncertainty Estimation
 
+[waiting][paper46] 
+* Importance of being uncertain
+* Martin Krzywinski, Naomi Altman
+* `Nature 2013`
+* [[Uncertainty Estimation]](#uncertainty-estimation)
+
 [waiting][paper44] 
 * Concrete Dropout
 * Yarin Gal, Jiri Hron, Alex Kendall
@@ -506,6 +512,12 @@ Place for papers, that I don't really want to categorize ;)
 * [[Random]](#random)
 
 ### 2020
+
+[waiting][paper46] 
+* Importance of being uncertain
+* Martin Krzywinski, Naomi Altman
+* `Nature 2013`
+* [[Uncertainty Estimation]](#uncertainty-estimation)
 
 [waiting][paper45] 
 * Variational Inference: A Review for Statisticians
