@@ -102,7 +102,7 @@ Just to make it convenient for me and (possibly) for other folks I'll store some
 
 ### Uncertainty Estimation
 
-[waiting][paper46] 
+[22-07-2020][paper46] 
 * Importance of being uncertain
 * Martin Krzywinski, Naomi Altman
 * `Nature 2013`
