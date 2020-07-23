@@ -332,6 +332,12 @@ Just to make it convenient for me and (possibly) for other folks I'll store some
 
 ### Bayesian Methods
 
+[waiting][paper52] 
+* Practical Variational Inference for Neural Networks
+* Alex Graves
+* `NIPS 2011`
+* [[Bayesian Methods]](#bayesian-methods)
+
 [waiting][paper45] 
 * Variational Inference: A Review for Statisticians
 * David M. Blei, Alp Kucukelbir, Jon D. McAuliffe
@@ -544,6 +550,12 @@ Place for papers, that I don't really want to categorize ;)
 * [[Random]](#random)
 
 ### 2020
+
+[waiting][paper52] 
+* Practical Variational Inference for Neural Networks
+* Alex Graves
+* `NIPS 2011`
+* [[Bayesian Methods]](#bayesian-methods)
 
 [waiting][paper51] 
 * Flipout: Efficient Pseudo-Independent Weight Perturbations on Mini-Batches
