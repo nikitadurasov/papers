@@ -525,6 +525,12 @@ Just to make it convenient for me and (possibly) for other folks I'll store some
 
 Place for papers, that I don't really want to categorize ;)
 
+[waiting][paper51] 
+* Flipout: Efficient Pseudo-Independent Weight Perturbations on Mini-Batches
+* Yeming Wen, Paul Vicol, Jimmy Ba, Dustin Tran, Roger Grosse
+* `ICLR 2018`
+* [[Random]](#random)
+
 [waiting][paper39]
 * Pointer Networks
 * Oriol Vinyals, Meire Fortunato, Navdeep Jaitly
@@ -538,6 +544,12 @@ Place for papers, that I don't really want to categorize ;)
 * [[Random]](#random)
 
 ### 2020
+
+[waiting][paper51] 
+* Flipout: Efficient Pseudo-Independent Weight Perturbations on Mini-Batches
+* Yeming Wen, Paul Vicol, Jimmy Ba, Dustin Tran, Roger Grosse
+* `ICLR 2018`
+* [[Random]](#random)
 
 [22-07-2020][paper50] 
 * A Sequential Algorithm for Training Text Classifiers
