@@ -102,6 +102,12 @@ Just to make it convenient for me and (possibly) for other folks I'll store some
 
 ### Uncertainty Estimation
 
+[waiting][paper53] 
+* Uncertainty-guided Continual Learning with Bayesian Neural Networks
+* Sayna Ebrahimi, Mohamed Elhoseiny, Trevor Darrell, Marcus Rohrbach
+* `ICLR 2020`
+* [[Uncertainty Estimation]](#Uncertainty-estimation)
+
 [22-07-2020][paper49] 
 * Epistemic Uncertainty Sampling
 * Vu-Linh Nguyen, Sébastien Destercke, Eyke Hüllermeier
@@ -550,6 +556,12 @@ Place for papers, that I don't really want to categorize ;)
 * [[Random]](#random)
 
 ### 2020
+
+[waiting][paper53] 
+* Uncertainty-guided Continual Learning with Bayesian Neural Networks
+* Sayna Ebrahimi, Mohamed Elhoseiny, Trevor Darrell, Marcus Rohrbach
+* `ICLR 2020`
+* [[Uncertainty Estimation]](#Uncertainty-estimation)
 
 [waiting][paper52] 
 * Practical Variational Inference for Neural Networks
