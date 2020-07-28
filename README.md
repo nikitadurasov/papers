@@ -102,6 +102,12 @@ Just to make it convenient for me and (possibly) for other folks I'll store some
 
 ### Uncertainty Estimation
 
+[waiting][paper54] 
+* Concrete Dropout
+* Yarin Gal, Jiri Hron, Alex Kendall
+* `NIPS 2017`
+* [[Uncertainty Estimation]](#Uncertainty-estimation)
+
 [waiting][paper53] 
 * Uncertainty-guided Continual Learning with Bayesian Neural Networks
 * Sayna Ebrahimi, Mohamed Elhoseiny, Trevor Darrell, Marcus Rohrbach
@@ -556,6 +562,12 @@ Place for papers, that I don't really want to categorize ;)
 * [[Random]](#random)
 
 ### 2020
+
+[waiting][paper54] 
+* Concrete Dropout
+* Yarin Gal, Jiri Hron, Alex Kendall
+* `NIPS 2017`
+* [[Uncertainty Estimation]](#Uncertainty-estimation)
 
 [waiting][paper53] 
 * Uncertainty-guided Continual Learning with Bayesian Neural Networks
