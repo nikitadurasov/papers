@@ -102,19 +102,19 @@ Just to make it convenient for me and (possibly) for other folks I'll store some
 
 ### Uncertainty Estimation
 
-[waiting][paper54] 
+[28-07-2020][paper54] 
 * Concrete Dropout
 * Yarin Gal, Jiri Hron, Alex Kendall
 * `NIPS 2017`
 * [[Uncertainty Estimation]](#Uncertainty-estimation)
 
-[waiting][paper53] 
+[28-07-2020][paper53] 
 * Uncertainty-guided Continual Learning with Bayesian Neural Networks
 * Sayna Ebrahimi, Mohamed Elhoseiny, Trevor Darrell, Marcus Rohrbach
 * `ICLR 2020`
 * [[Uncertainty Estimation]](#Uncertainty-estimation)
 
-[22-07-2020][paper49] 
+[27-07-2020][paper49] 
 * Epistemic Uncertainty Sampling
 * Vu-Linh Nguyen, Sébastien Destercke, Eyke Hüllermeier
 * `ICDS 2019`
@@ -454,6 +454,12 @@ Just to make it convenient for me and (possibly) for other folks I'll store some
 
 ### Natural Language Processing 
 
+[done][paper54] 
+* BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding
+* Jacob Devlin, Ming-Wei Chang, Kenton Lee, Kristina Toutanova
+* `ACL 2019`
+* [[Natural Language Processing]](#natural-language-processing)
+
 [waiting][paper35]
 * Quantifying Uncertainties in Natural Language Processing Tasks
 * Yijun Xiao, William Yang Wang
@@ -563,13 +569,19 @@ Place for papers, that I don't really want to categorize ;)
 
 ### 2020
 
-[waiting][paper54] 
+[done][paper54] 
+* BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding
+* Jacob Devlin, Ming-Wei Chang, Kenton Lee, Kristina Toutanova
+* `ACL 2019`
+* [[Natural Language Processing]](#natural-language-processing)
+
+[done][paper54] 
 * Concrete Dropout
 * Yarin Gal, Jiri Hron, Alex Kendall
 * `NIPS 2017`
 * [[Uncertainty Estimation]](#Uncertainty-estimation)
 
-[waiting][paper53] 
+[done][paper53] 
 * Uncertainty-guided Continual Learning with Bayesian Neural Networks
 * Sayna Ebrahimi, Mohamed Elhoseiny, Trevor Darrell, Marcus Rohrbach
 * `ICLR 2020`
@@ -587,7 +599,7 @@ Place for papers, that I don't really want to categorize ;)
 * `ICLR 2018`
 * [[Random]](#random)
 
-[22-07-2020][paper50] 
+[done][paper50] 
 * A Sequential Algorithm for Training Text Classifiers
 * David D. Lewis, William A. Gale
 * `ICDS 2019`
