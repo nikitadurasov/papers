@@ -454,6 +454,12 @@ Just to make it convenient for me and (possibly) for other folks I'll store some
 
 ### Natural Language Processing 
 
+[done][paper55] 
+* Improving language understanding by generative pre-training
+* Alec Radford, Karthik Narasimhan, Tim Salimans, Ilya Sutskever
+* `?`
+* [[Natural Language Processing]](#natural-language-processing)
+
 [done][paper54] 
 * BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding
 * Jacob Devlin, Ming-Wei Chang, Kenton Lee, Kristina Toutanova
@@ -568,6 +574,12 @@ Place for papers, that I don't really want to categorize ;)
 * [[Random]](#random)
 
 ### 2020
+
+[done][paper55] 
+* Improving language understanding by generative pre-training
+* Alec Radford, Karthik Narasimhan, Tim Salimans, Ilya Sutskever
+* `?`
+* [[Natural Language Processing]](#natural-language-processing)
 
 [done][paper54] 
 * BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding
