@@ -102,6 +102,18 @@ Just to make it convenient for me and (possibly) for other folks I'll store some
 
 ### Uncertainty Estimation
 
+[done][paper57] 
+* Uncertainty-Aware Deep Classifiers using Generative Models
+* Murat Sensoy, Lance Kaplan, Federico Cerutti, Maryam Saleki
+* `AAAI 2020`
+* [[Uncertainty Estimation]](#uncertainty-estimation)
+
+[done][paper56] 
+* Deep Ensembles: A Loss Landscape Perspective
+* Stanislav Fort, Huiyi Hu, Balaji Lakshminarayanan
+* `arXiv 2019`
+* [[Uncertainty Estimation]](#uncertainty-estimation)
+
 [28-07-2020][paper54] 
 * Concrete Dropout
 * Yarin Gal, Jiri Hron, Alex Kendall
@@ -574,6 +586,18 @@ Place for papers, that I don't really want to categorize ;)
 * [[Random]](#random)
 
 ### 2020
+
+[done][paper57] 
+* Uncertainty-Aware Deep Classifiers using Generative Models
+* Murat Sensoy, Lance Kaplan, Federico Cerutti, Maryam Saleki
+* `AAAI 2020`
+* [[Uncertainty Estimation]](#uncertainty-estimation)
+
+[done][paper56] 
+* Deep Ensembles: A Loss Landscape Perspective
+* Stanislav Fort, Huiyi Hu, Balaji Lakshminarayanan
+* `arXiv 2019`
+* [[Uncertainty Estimation]](#uncertainty-estimation)
 
 [done][paper55] 
 * Improving language understanding by generative pre-training
