@@ -102,6 +102,12 @@ Just to make it convenient for me and (possibly) for other folks I'll store some
 
 ### Uncertainty Estimation
 
+[done][paper58] 
+* Normalizing Flows: An Introduction and Review of Current Methods
+* Ivan Kobyzev, Simon J.D. Prince, Marcus A. Brubaker
+* `TPAMI 2020`
+* [[Uncertainty Estimation]](#uncertainty-estimation)
+
 [done][paper57] 
 * Uncertainty-Aware Deep Classifiers using Generative Models
 * Murat Sensoy, Lance Kaplan, Federico Cerutti, Maryam Saleki
@@ -586,6 +592,12 @@ Place for papers, that I don't really want to categorize ;)
 * [[Random]](#random)
 
 ### 2020
+
+[done][paper58] 
+* Normalizing Flows: An Introduction and Review of Current Methods
+* Ivan Kobyzev, Simon J.D. Prince, Marcus A. Brubaker
+* `TPAMI 2020`
+* [[Uncertainty Estimation]](#uncertainty-estimation)
 
 [done][paper57] 
 * Uncertainty-Aware Deep Classifiers using Generative Models
