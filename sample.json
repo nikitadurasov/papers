@@ -1,0 +1,21 @@
+{
+	"title" : "My first paper to test",
+	"authors" : [
+		"First Author",
+		"Second Author"
+	],
+	"dateAdded" : "2012-04-23",
+	"dateDone" : "waiting",
+	"tags" : ["Sample paper"],
+	"place": "Nowhere", 
+	"comments" : [
+		"Any of your comments you would like to add here and with any styling",
+		"Could be divided in several parts, that's ok"
+	],
+    "pdf" : "https://arxiv.org/pdf/2006.03511.pdf",
+	"code" : "https://www.google.com",
+	"videos" : [
+        "https://www.youtube.com/watch?v=uw0U-26WmDc",
+        "https://www.youtube.com/watch?v=n0S8Hu-qtKQ&t=1761s"
+    ]
+}
