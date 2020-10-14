@@ -1,0 +1,19 @@
+{
+	"title" : "Weight Uncertainty in Neural Networks",
+    "authors" : [
+        "Charles Blundell", 
+        "Julien Cornebise", 
+        "Koray Kavukcuoglu", 
+        "Daan Wierstra"
+	],
+	"dateAdded" : "2020-10-14",
+    "dateDone" : "2020-06-10",
+    "datePublished" : "",
+	"tags" : ["Bayesian Methods", "Uncertainty Estimation"],
+	"place": "ICML 2015", 
+    "comments" : [],
+    "pdf" : "https://arxiv.org/pdf/1505.05424",
+	"code" : "",
+	"videos" : [
+    ]
+}

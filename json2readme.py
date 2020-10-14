@@ -17,11 +17,12 @@ RESULTING_README += ABOUT_SECTION
 PAPERS_DIR = "papers_db"
 papers_descriptions = os.listdir(PAPERS_DIR)
 papers_descriptions = [json.load(open(os.path.join(PAPERS_DIR, p))) for p in papers_descriptions]
+# TODO filter papers for uniqueness
 
 unique_tags = {tag for paper_sample in papers_descriptions for tag in paper_sample["tags"]}
 
 # adding content description
-CONTENT = "## Content \n"
+CONTENT = f"## Content (total #papers = {len(papers_descriptions)})\n"
 for tag in unique_tags:
 	tag_name = "-".join(tag.lower().split())
 	CONTENT += f"- [{tag}](#{tag_name})\n"
@@ -75,6 +76,19 @@ for tag in sorted(unique_tags):
 	for paper in sorted(tagged_papers, key=lambda x: x["title"]):
 		RESULTING_README += process_paper(paper) + "\n"
 	RESULTING_README += "\n***\n"
+
+# adding waiting and done sections
+waiting_papers = [paper for paper in papers_descriptions if paper["dateDone"] == "waiting"]
+RESULTING_README += f"### Waiting (#papers = {len(waiting_papers)})\n\n"
+for paper in sorted(waiting_papers, key=lambda x: x["title"]):
+	RESULTING_README += process_paper(paper) + "\n"
+RESULTING_README += "\n***\n"
+
+done_papers = [paper for paper in papers_descriptions if paper["dateDone"] != "waiting"]
+RESULTING_README += f"### Done (#papers = {len(done_papers)})\n\n"
+for paper in sorted(done_papers, key=lambda x: x["title"]):
+	RESULTING_README += process_paper(paper) + "\n"
+RESULTING_README += "\n***\n"
 
 
 open("./RM.md", "w").write(RESULTING_README)
