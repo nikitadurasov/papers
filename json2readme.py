@@ -71,7 +71,7 @@ def process_paper(sample):
 # adding different sections by tags
 for tag in sorted(unique_tags):
 	tagged_papers = [paper for paper in papers_descriptions if tag in paper['tags']]
-	RESULTING_README += f"### {tag} (#papers = {len(tagged_papers)})\n\n"
+	RESULTING_README += f"### {tag}\n(#papers = {len(tagged_papers)})\n\n"
 	# TODO sort in order of adding date
 	for paper in sorted(tagged_papers, key=lambda x: x["title"]):
 		RESULTING_README += process_paper(paper) + "\n"
@@ -79,13 +79,13 @@ for tag in sorted(unique_tags):
 
 # adding waiting and done sections
 waiting_papers = [paper for paper in papers_descriptions if paper["dateDone"] == "waiting"]
-RESULTING_README += f"### Waiting (#papers = {len(waiting_papers)})\n\n"
+RESULTING_README += f"### Waiting\n(#papers = {len(waiting_papers)})\n\n"
 for paper in sorted(waiting_papers, key=lambda x: x["title"]):
 	RESULTING_README += process_paper(paper) + "\n"
 RESULTING_README += "\n***\n"
 
 done_papers = [paper for paper in papers_descriptions if paper["dateDone"] != "waiting"]
-RESULTING_README += f"### Done (#papers = {len(done_papers)})\n\n"
+RESULTING_README += f"### Done\n(#papers = {len(done_papers)})\n\n"
 for paper in sorted(done_papers, key=lambda x: x["title"]):
 	RESULTING_README += process_paper(paper) + "\n"
 RESULTING_README += "\n***\n"
