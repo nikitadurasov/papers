@@ -1,0 +1,19 @@
+{
+	"title" : "Bayesian Layers: A Module for Neural Network Uncertainty",
+    "authors" : [
+        "Dustin Tran", 
+        "Mike Dusenberry", 
+        "Mark van der Wilk", 
+        "Danijar Hafner"
+	],
+	"dateAdded" : "2019-10-14",
+    "dateDone" : "waiting",
+    "datePublished" : "2020-03-05",
+	"tags" : ["Bayesian Methods", "Uncertainty Estimation"],
+	"place": "NIPS 2019", 
+    "comments" : [],
+    "pdf" : "https://papers.nips.cc/paper/9607-bayesian-layers-a-module-for-neural-network-uncertainty",
+	"code" : "",
+	"videos" : [
+    ]
+}

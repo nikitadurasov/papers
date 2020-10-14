@@ -1,0 +1,16 @@
+{
+	"title" : "Bayesian Methods for Neural Networks",
+	"authors" : [
+        "Christopher M. Bishop"
+	],
+	"dateAdded" : "2020-10-14",
+	"dateDone" : "2020-06-10",
+	"tags" : ["Bayesian Methods", "Uncertainty Estimation"],
+	"place": "?", 
+	"comments" : [
+	],
+    "pdf" : "https://www.microsoft.com/en-us/research/wp-content/uploads/1995/01/NCRG_95_009.pdf",
+	"code" : "",
+	"videos" : [
+    ]
+}

@@ -1,0 +1,19 @@
+{
+	"title" : "Unsupervised Translation of Programming Languages",
+    "authors" : [
+        "Marie-Anne Lachaux",
+        "Baptiste Roziere",
+        "Lowik Chanussot", 
+        "Guillaume Lample"
+	],
+	"dateAdded" : "2020-10-14",
+    "dateDone" : "waiting",
+    "datePublished" : "2020-05-06",
+	"tags" : ["Natural Language Processing", "Unsupervised Learning"],
+	"place": "arxiv", 
+    "comments" : [],
+    "pdf" : "https://arxiv.org/pdf/2006.03511.pdf",
+	"code" : "",
+	"videos" : [
+    ]
+}

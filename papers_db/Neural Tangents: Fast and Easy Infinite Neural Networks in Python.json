@@ -1,0 +1,23 @@
+{
+	"title" : "Neural Tangents: Fast and Easy Infinite Neural Networks in Python",
+	"authors" : [
+        "Roman Novak", 
+        "Lechao Xiao", 
+        "Jiri Hron", 
+        "Jaehoon Lee", 
+        "Alexander A. Alemi", 
+        "Jascha Sohl-Dickstein", 
+        "Samuel S. Schoenholz"
+	],
+	"dateAdded" : "2020-10-14",
+	"dateDone" : "waiting",
+	"tags" : ["Bayesian Methods", "Uncertainty Estimation", "Gaussian Processes"],
+	"place": "ICML 2020", 
+	"comments" : [
+	],
+    "pdf" : "https://arxiv.org/abs/1912.02803",
+	"code" : "",
+	"videos" : [
+        "https://iclr.cc/virtual_2020/poster_SklD9yrFPS.html"
+    ]
+}
